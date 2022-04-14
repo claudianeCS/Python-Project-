@@ -1,0 +1,973 @@
+;nome_do_produto;preco_original;desconto;preco_disconto
+0; Moto G60 Dual SIM 128 GB champagne 6 GB RAM;R$ 2.699;29 OFF;R$ 1.899
+1;Notebook Hp Hpcm 250 G8 Ci3 4gb 500gb W10 Pro 15.6 - 3g4z3la;R$ 3.499;18 OFF;R$ 2.869
+2;Apple iPhone 12 (128 GB) - Branco;R$ 7.599;30 OFF;R$ 5.299
+3;Kit 6 Câmeras Multi Hd 1120b Dvr Intelbras 8 Canais Com Hd;R$ 1.994;11 OFF;R$ 1.775
+4;Ventilador de parede Ventisol Monta Fácil turbo preto com 6 pás, 51 cm de diâmetro 127 V;R$ 279;15 OFF;R$ 237,91
+5;Bicicleta Aro 29 Ksw 21 Vel. Shimano+ Freio Mecânico;R$ 1.389;17 OFF;R$ 1.154
+6;Impressora a cor multifuncional Epson EcoTank L3250 com wifi preta 100V/240V;R$ 1.699;28 OFF;R$ 1.219
+7;Jogo Kit De Soquete 57 Peças 1/4 Catraca Chave Allen Stels;R$ 192;7 OFF;R$ 178,20
+8;"Smart TV AOC 43S5195/78G LED Full HD 43"" 110V/220V";R$ 2.849;33 OFF;R$ 1.899
+9;LG K41S Dual SIM 32 GB titânio 3 GB RAM;R$ 1.299;34 OFF;R$ 849
+10;"Smart TV Philco PTV24G50SN DLED HD 24"" 110V/220V";R$ 1.299;19 OFF;R$ 1.049
+11;Panela De Pressão Elétrica - 4 Litros - In Brasil;R$ 399;6 OFF;R$ 375,81
+12;Camisetas Masculinas Basica Gola Redonda 5 Unidades, Algodão;R$ 78;7 OFF;R$ 72,59
+13;Módulo Taramps Ts400 Digital 400w Rms 4 Canais 2 Ohms Loi;R$ 257;10 OFF;R$ 229,90
+14; Moto E20 Dual SIM 32 GB azul 2 GB RAM;R$ 999;21 OFF;R$ 784
+15;Armário Cozinha Compacta Julia 4 Peças Preto Poquema;R$ 445;12 OFF;R$ 389
+16;Tapete 2,00x1,50 Costa Oro Shaggy Mega Promoção Peludo;R$ 99;10 OFF;R$ 89,90
+17;"Smart TV Philco PTV32G70RCH LED HD 32"" 110V/220V";R$ 1.699;23 OFF;R$ 1.299
+18;Colchão De Ar Inflável Azul Pvc Até 200kg Atrio- Es289;R$ 155;16 OFF;R$ 130,44
+19;Módulo Amplificador Stetsom Ex3000 2 Ohms 3000w Rms Black;R$ 689;18 OFF;R$ 559
+20;Jogo De Panelas Antiaderente Tampa De Vidro 5 Peças ;R$ 369;19 OFF;R$ 298
+21;Maquina Acabamento Detalhe Cabelo Barba Sem Fio Recarregável;R$ 99;9 OFF;R$ 90,90
+22;Impressora a cor multifuncional Epson EcoTank L3250 com wifi preta 110V;R$ 1.699;29 OFF;R$ 1.196
+23;Câmera De Segurança Ip À Prova D'agua Com Cartão De 64gb;R$ 349;9 OFF;R$ 317,59
+24;Samsung Galaxy S20 FE Dual SIM 128 GB cloud navy 6 GB RAM;R$ 4.999;52 OFF;R$ 2.399
+25;Impressora a cor multifuncional Epson EcoTank L3250 com wifi preta 220V;R$ 1.699;29 OFF;R$ 1.196
+26;Aparelho 4k Adaptador Smart Tv Box Transforme Tv Em Smarttv;R$ 198;5 OFF;R$ 188,10
+27;Parafusadeira/ Furadeira De Impacto Hp0300 Makita 320w ;R$ 389;5 OFF;R$ 369,55
+28;Alto-falante Mondial Connect Power Plus CM-550 com bluetooth 127V/220V ;R$ 799;27 OFF;R$ 579
+29;Painel Plafon Led 24w Embutir Quadrado Frio Bivolt 30x30 Cm;R$ 72;44 OFF;R$ 39,90
+30;Kit 4 Câmeras Segurança Intelbras 1120 Vhl  Hd 1tb Wd Purple;R$ 1.689;30 OFF;R$ 1.183
+31;Kit 3 Calças Jeans Camuflada Masculina Jogger C/ Punho Lycra;R$ 185;8 OFF;R$ 170,20
+32;Kit 10 Barras 2m Perfil Embutir Slim + Acabamentos Top;R$ 579;17 OFF;R$ 480,57
+33;"Notebook Acer Aspire 3 A314-35 prata 14"", Intel Celeron N4500  4GB de RAM 500GB HDD, Intel UHD Graphics 60 Hz 1920x1080px Windows 10 Home";R$ 2.999;29 OFF;R$ 2.109
+34;"Monitor AOC Serie 70 M2470SWH2 led 23.6 "" preto 100V/240V";R$ 1.151;20 OFF;R$ 918
+35;Tela 15.6 Slim 30 Pinos N156bga-eb2 N156bge-eb2 Rev.c1;R$ 717;14 OFF;R$ 617,38
+36;Conjunto Gabinete Banheiro Prisma 80cm Com Tampo Vidro;R$ 699;13 OFF;R$ 608,13
+37;Serra Meia Esquadria Philco 8  1500w 4.500rpm Pse1500;R$ 769;7 OFF;R$ 716
+38;Câmera Externa Ip Prova D'água Infravermelho Externa Wifi Hd;R$ 276;9 OFF;R$ 251,84
+39;Purificador De Água Pure 4x Pe12g Cinza Electrolux;R$ 799;17 OFF;R$ 659
+40;Escorregador Infantil Plástico 3 Degraus Medio Frete Gratis;R$ 319;10 OFF;R$ 287,99
+41;Camera Ip Lampada Segurança 360 Visão Noturna Espia Wifi Hd;R$ 136;9 OFF;R$ 123,76
+42;Kit 02 Caixas Tiras Reagentes Accu-chek Active 50 Tiras;R$ 144;14 OFF;R$ 122,83
+43; Moto G60 Dual SIM 128 GB azul 6 GB RAM;R$ 2.699;27 OFF;R$ 1.957
+44;Impressora a cor multifuncional Canon Pixma G3110 com wifi preta 110V/220V;R$ 1.499;34 OFF;R$ 989
+45;"Notebook Positivo BGH Motion Q4128C gray 14.1"", Intel Atom Z8350  4GB de RAM 128GB SSD, Intel HD Graphics 1366x768px Windows 10 Home";R$ 2.199;27 OFF;R$ 1.599
+46;Vestido Feminino Longo De Festa Multiuso Madrinhas Casamento;R$ 119;6 OFF;R$ 112,63
+47;Micro-ondas Consul CMS45A   branco 32L 127V;R$ 1.019;21 OFF;R$ 799
+48;10 Rolos Etiquetas 10x15 Térmica Serrilha Zebra Argox Elgin;R$ 209;5 OFF;R$ 199,40
+49;Cerveja Colorado Appia Garrafa 600ml;R$ 11;30 OFF;R$ 7,90
+50;Cama Elástica Infantil Pula Pula Trampolim 1,83m + Rede;R$ 849;12 OFF;R$ 747,12
+51;Nano Titanium Chapinha Profissional Melhor Q Taiff Gama Ofer;R$ 249;24 OFF;R$ 189,98
+52;Airfryer Fritadeira Elétrica Sem Óleo Multilaser 4l 127/110v;R$ 489;6 OFF;R$ 460,50
+53;Desumidificador Ar Ambiente Elétrico Antimofo 600ml Bivolt;R$ 499;8 OFF;R$ 459,90
+54;Cadeira de escritório Pelegrin PEL-2043  preta com estofado de couro sintético;R$ 998;10 OFF;R$ 898,20
+55;Bota Paris Cano Alto Salto Bloco;R$ 165;8 OFF;R$ 152,71
+56;Cadeira de escritório Trevalla TL-CDE-34-1  preta com estofado de mesh;R$ 499;20 OFF;R$ 399
+57;Kit 5 Camisetas Masculinas Slim Fit  Básicas Algodão Premium;R$ 119;20 OFF;R$ 94,90
+58;Mesa De Jantar Preta Com Cobre Industrial 1,20x90 Retrô;R$ 649;40 OFF;R$ 389,99
+59;Kit 4 Peças 3 Bolsas Feminina 1 Carteira Tendência Promoção;R$ 104;6 OFF;R$ 98,60
+60;Kit 5 Camisa Polo Masculina Original Atacado C Nota Fiscal;R$ 159;8 OFF;R$ 146,73
+61;Ovo de Páscoa Bis Lacta 318g Lacta;R$ 69;11 OFF;R$ 62,02
+62;Máquina de lavar automática Consul CWH12 branca 12kg 127 V;R$ 2.039;16 OFF;R$ 1.699
+63;Liquidificador portátil Mondial Turbo Power L-99 2.2 L vermelho com jarra de san 220V;R$ 139;14 OFF;R$ 119,90
+64;Ultra Super Led 20000lm - H1 H3 H4 H7 H11 Hb4 6500k - Xenom;R$ 77;15 OFF;R$ 66,06
+65;Ar condicionado LG Dual Inverter Voice split frio 9000 BTU branco 220V S4-Q09WA51;R$ 1.989;12 OFF;R$ 1.749
+66;Central Multimídia Universal 2 Din Mp5 Bt Espelha Dvd;R$ 358;12 OFF;R$ 315,04
+67;Kit Unha Acrigel Fibra + Cabine + Lixa + Kit Gel Acrygel;R$ 218;18 OFF;R$ 177,95
+68;Tv box Intelbras IZY Play de voz Full HD 8GB preto com 1GB de memória RAM;R$ 369;25 OFF;R$ 274
+69;Copo Térmico Stanley Inox S/ Tampa Cerveja 473ml Original;R$ 205;23 OFF;R$ 158,58
+70; Moto G9 Play Dual SIM 64 GB verde-turquesa 4 GB RAM;R$ 1.599;18 OFF;R$ 1.299
+71;Controle joystick sem fio Microsoft Xbox Wireless Controller Series X|S shock blue;R$ 529;15 OFF;R$ 449,90
+72;Xiaomi Redmi Note 10S Dual SIM 64 GB onyx gray 6 GB RAM;R$ 3.000;54 OFF;R$ 1.360
+73;Kit Ferramentas Estepe Macaco Jacarézinho 2 Toneladas;R$ 228;14 OFF;R$ 194,25
+74;Kit 2 Refletor Led 100w Holofote Bivolt Prova Dágua Luz Frio;R$ 119;10 OFF;R$ 107,54
+75;Kit 10 Farol Milha 16 Led 48w 12v/24v Quadrad Off-road 6000k;R$ 245;15 OFF;R$ 208,25
+76;Azeite de Oliva Extra Virgem Português Andorinha Clássicos Vidro 500ml;R$ 29;20 OFF;R$ 23,89
+77;Tenis Feminino Academia Original Corrida Caminhada Byllbow;R$ 69;8 OFF;R$ 64,30
+78;10x Farol De Milha 14 Led 42w 12v/24v Redondo Off-road 6000k;R$ 235;15 OFF;R$ 199,84
+79;Kit Gabinete Banheiro - Armário+cuba+espelheira Cross 80cm;R$ 499;13 OFF;R$ 434,13
+80;Escapamento Crf 230 Pro Tork Powercore 2 Com Curva;R$ 999;46 OFF;R$ 539,94
+81;Cadeira De Escritório Presidente Brizza Braço 3d Backplax;R$ 1.149;10 OFF;R$ 1.034
+82;"Notebook Lenovo IdeaPad 15IGL05  platinum gray 15.6"", Intel Celeron N4020  4GB de RAM 128GB SSD, Intel UHD Graphics 600 1366x768px Windows 11 Home";R$ 2.599;11 OFF;R$ 2.299
+83;Xiaomi Redmi 9A Dual SIM 32 GB verde 2 GB RAM;R$ 769;9 OFF;R$ 699
+84;Kit 3 Pares Sapato Social Masculino Super Leve Original 2019;R$ 169;5 OFF;R$ 161,01
+85;Ar condicionado LG Dual Inverter Voice split frio 12000 BTU branco 220V S4-Q12JA31C;R$ 2.371;16 OFF;R$ 1.979
+86;Rotulador Eletronico Brother Pt-80 + 2 Fita M231 Compativel ;R$ 319;8 OFF;R$ 291,11
+87;Refletor Led 200w Holofote Bivolt Prova Dágua Luz Frio Ip67;R$ 145;5 OFF;R$ 138,69
+88;Microscópio Zoom 1600x Cam 2.0 Mp Profissional Digital Usb;R$ 115;16 OFF;R$ 97,27
+89;Jogo De Panelas Cerâmica 6 Peças Fogão Indução Tampa Vidro;R$ 399;16 OFF;R$ 335,16
+90;Edredom Sherpa Cobertor E Coberdrom Casal Queen Grosso Ofert;R$ 189;5 OFF;R$ 180,40
+91;Lousa Quadro Branco Moldura Alumínio 120x90cm + 4 Canetas;R$ 132;10 OFF;R$ 119,60
+92;Kit 16 Organizadores Paramount Modular Multiuso Gavetas Mesa;R$ 229;8 OFF;R$ 211,50
+93;Soprador Termico 1500w 110v Gamma G1935/br1;R$ 99;8 OFF;R$ 90,91
+94;Fraldas Huggies Tripla Proteção XG 66 u;R$ 99;45 OFF;R$ 53,90
+95;Kit 4 Radio Comunicador 777s Profissional Ht Uhf 16 Canais;R$ 364;8 OFF;R$ 334,88
+96;Cortina Jacquard Sala E Quarto 3 00mts X 2 30 Esticada;R$ 78;5 OFF;R$ 74,95
+97;Motor Compressor Embraco Em2p70clp R600a 1/5 127v Ou 220v;R$ 492;6 OFF;R$ 463,31
+98;Kit 10 Cuecas Boxer Masculina Cueca Box Algodão Cotton Mash;R$ 189;21 OFF;R$ 149
+99;LG K22 Dual SIM 32 GB blue 2 GB RAM;R$ 999;22 OFF;R$ 779
+100;Microfone Lapela Sem Fio Compatível Android Usb C Type C;R$ 279;10 OFF;R$ 251,99
+101;Refletor Led 100w Smd Prova D´água Ip66 Holofote 6500k ;R$ 56;10 OFF;R$ 50,67
+102;Máquina Solda Portátil Tig 165a Bivolt + Máscara Automática;R$ 651;9 OFF;R$ 593,13
+103;Impressora Multifuncional Ecotank L6270 Duplex Wi-fi Epson ;R$ 2.449;8 OFF;R$ 2.240
+104;Kit Com 10 Calcinhas Francesinha Cós Alto Algodão Penteado;R$ 94;7 OFF;R$ 87,12
+105;Lavadora de alta pressão Intech Machine Acqua1400 laranja e preta com 1450psi de pressão máxima 220V;R$ 469;5 OFF;R$ 445,55
+106;Kit 2 Peças Classic Apoio E Lateral Redonda Mdf Pé Palito;R$ 179;14 OFF;R$ 154,71
+107;"Smart TV LG AI ThinQ 50UP7750PSB LCD 4K 50"" 100V/240V";R$ 3.199;12 OFF;R$ 2.799
+108;Secador de cabelo Taiff Easy preto 127V;R$ 215;16 OFF;R$ 179,90
+109;Cacto Dançante E Falante Toca Música Repete A Fala Brinquedo;R$ 34;12 OFF;R$ 29,92
+110;Varal De Chão Reforçado Com Abas Dobrável Portátil ;R$ 117;17 OFF;R$ 97
+111;"Smart TV LG 32LM627BPSB LED HD 32"" 100V/240V";R$ 2.059;28 OFF;R$ 1.479
+112;Kit 5 Tesouras Pet Shop Profissionais Banho Tosa 7 Polegadas;R$ 357;19 OFF;R$ 289,17
+113;Samsung Galaxy S20 FE Dual SIM 128 GB cloud mint 6 GB RAM;R$ 4.999;52 OFF;R$ 2.399
+114;Jogo Panelas 14 Pc Teflon Antiaderente Brinde Panela Pressão;R$ 412;10 OFF;R$ 370,80
+115;Kit 5 Camiseta Masculina Dry Fit Academia Treino Pro Fitness;R$ 124;8 OFF;R$ 114,02
+116; Moto E6i Dual SIM 32 GB cinza-titanium 2 GB RAM;R$ 1.099;31 OFF;R$ 749
+117;Kit Bermuda Jeans Masculina Short Qualidade Top Slim Skinny;R$ 168;8 OFF;R$ 154,56
+118;Antena Digital Interna Digital Full Hdtv 4k Aquario Dtv-100p;R$ 32;10 OFF;R$ 29,51
+119;Andador Adulto Aluminio Dobravel Regulavel Rodas Freio Bolsa;R$ 589;7 OFF;R$ 548,60
+120;Home Theater Moscou P/tv Ate 65  C/suporte Universal Pr/fumê;R$ 959;45 OFF;R$ 524
+121;Short Cinta Zero Barriga Abdominal Alta Compressão Feminina.;R$ 78;10 OFF;R$ 71,01
+122;Jogo Conjunto Mesa Bar Dobrável 70x70 C/4 Cadeiras Madeira ;R$ 398;14 OFF;R$ 342,78
+123;Kit Nova Escova Semidefinitiva Zero 2x1l Com Kit Pós Progres;R$ 182;27 OFF;R$ 133,58
+124;Fone de ouvido on-ear sem fio Philips 2000 Series TAUH202 preto;R$ 110;10 OFF;R$ 99
+125;Kit Unha Gel Completo Fibra Kit Unhas Gel;R$ 299;13 OFF;R$ 260,13
+126;Kit Atacado 5 Bermudas Jeans Masculina Rasgada Destroyed;R$ 199;8 OFF;R$ 183,90
+127;Câmera Ip Icsee Prova D'água Infravermelho Externa Wifi Hd;R$ 267;15 OFF;R$ 226,46
+128;Volante Gamer Driving Force Para Xbox One E Pc G920 Logitech;R$ 1.999;14 OFF;R$ 1.700
+129;Kit Miçanga Infantil Para Pulseira Com + De 2000 Pçs Maleta;R$ 119;9 OFF;R$ 109,10
+130;Maquina De Cortar Cabelo Transparente Wmark Ng308 Verde 308;R$ 349;6 OFF;R$ 328,99
+131;Terno Italiano Diversas Cores Slim Micro - Linha Exclusiva;R$ 195;5 OFF;R$ 185,25
+132;Fio Cabo Cordão Paralelo 2x2,5mm - 100mts Branco Extensão;R$ 260;12 OFF;R$ 229,59
+133;Luvas descartáveis Supermax Premium quality  procedimento cor branco tamanho  P de látex com pó x  100 unidades ;R$ 31;9 OFF;R$ 28,44
+134;"Smart TV Philips 7600 Series 55PUG7625/78 LED 4K 55"" 110V/240V";R$ 4.499;33 OFF;R$ 2.989
+135;Creme Nutella 350gr Ferrero Avela;R$ 25;26 OFF;R$ 18,81
+136;"Smart TV Philco PTV50RCG70BL LED 4K 50"" 110V/220V";R$ 2.999;13 OFF;R$ 2.599
+137;Suporte Articulado Tv Led 28 32 40 42 43 49 50 55 Polegadas;R$ 79;5 OFF;R$ 75,98
+138;Impressora Epson Multifuncional Ecotank L3250 Wifi 110/220v;R$ 1.479;20 OFF;R$ 1.184
+139;Churrasqueira elétrica Cotherm Mister Grill Plus 127V;R$ 99;8 OFF;R$ 90,15
+140;LG K52 (13 Mpx) Dual SIM 64 GB green 3 GB RAM;R$ 1.499;26 OFF;R$ 1.099
+141;Kit 12 Calcinhas Tanga Feminina Trifil;R$ 149;33 OFF;R$ 98,99
+142;Kit Boxe Muay Thai Naja Black Line - Luva + Bandagem + Bucal;R$ 199;13 OFF;R$ 173,13
+143;Lustre Pendente Led Moderno 35w 3 Em 1;R$ 638;10 OFF;R$ 574,79
+144;Kit 10 Painel Plafon Led 18w Quadrado Embutir Luminária;R$ 289;32 OFF;R$ 197,13
+145;Blusa Moletom Time Personalizada Europeus Masculina;R$ 75;8 OFF;R$ 69,82
+146;Óleo extra virgem de oliva Gomes da Costa vidro sem glúten 500 ml;R$ 26;33 OFF;R$ 17,99
+147;Kit 3 Camisetas Masculina Camisas Voker 100% Algodão Atacado;R$ 78;7 OFF;R$ 72,59
+148;Kit 4 Unidades De Salva Piso (rolo De 1,00 X 25m) Salvabras ;R$ 759;6 OFF;R$ 714,02
+149;Samsung Galaxy A71 Dual SIM 128 GB azul 6 GB RAM;R$ 3.499;40 OFF;R$ 2.099
+150;Secador de cabelo Taiff Clássica Style azul-tiffany 127V;R$ 249;29 OFF;R$ 176
+151;Carregador Baterias Automotivo 12v Até 150 Amp +brinde;R$ 227;15 OFF;R$ 192,95
+152;Pc Gamer Intel Core I5 3.4ghz 8gb Ssd240gb Lol Freefire;R$ 1.890;5 OFF;R$ 1.796
+153;Módulo Soundigital Sd800 Digital 800w Rms 4 Canais 2 Ohms;R$ 577;30 OFF;R$ 399
+154;Kit  4 Calça Jeans Masculina Skinny Direto Da Fábrica;R$ 239;6 OFF;R$ 224,66
+155;Aparelho Mp3 Com Bluetooth Radio Fm Usb + Falante Bravox 06;R$ 173;8 OFF;R$ 159
+156;Tênis Esportivo Masculino Olimpak Para Caminhada Academia;R$ 78;5 OFF;R$ 74,56
+157;Tapete 2,00 X 1,50 Peludo Felpudo 40mm Sala  Luxo;R$ 99;11 OFF;R$ 88
+158;Painel Para Tv Até 60 Polegadas Madesa Alfa - Preto;R$ 529;39 OFF;R$ 319,99
+159;Cartão Memória Sandisk Ultra 32gb 100mb/s Classe 10 Microsd ;R$ 54;17 OFF;R$ 45,56
+160;Fone de ouvido in-ear sem fio Samsung Galaxy Buds Live mystic black;R$ 449;11 OFF;R$ 399
+161;Geladeira frost free Electrolux DFN41 branca com freezer 371L 127V;R$ 3.506;25 OFF;R$ 2.629
+162;Ultra Led Shocklight 10.000 Lumens H1 H3 H4 H7 H11 Hb4 H13;R$ 198;15 OFF;R$ 169,06
+163;Geladeira frost free Electrolux DFN41 branca com freezer 371L 127V;R$ 3.506;25 OFF;R$ 2.629
+164;Relógio Masculino Technos Prata Performance Militar Barato ;R$ 339;13 OFF;R$ 295,71
+165;Cuba Inox Quadrada Pia Gourmet Com Válvula 40 X 40 Cm;R$ 629;8 OFF;R$ 579,50
+166;Kit 3 Banqueta Alta Encosto Em Aço Bistrô Cozinha Bancada;R$ 304;6 OFF;R$ 286,14
+167;Barraca Camping 5-8 Lugares Grande Ventilação 270*270*150cm ;R$ 599;5 OFF;R$ 569,05
+168;Capacete Pro Tork Evoluiton G8 Evo + Narigueira Lançamento;R$ 299;5 OFF;R$ 284,05
+169;Sabão em pó Surf Rosas e Flor de Lis pacote 1.6 kg;R$ 13;49 OFF;R$ 6,99
+170;Kit 5 Spot Led Embutir Direcionável Luminaria Cozinha Quarto;R$ 58;15 OFF;R$ 49,30
+171;Controle Xbox 360 Com Fio Pc 2 Em 1;R$ 78;5 OFF;R$ 75,04
+172;Bola Maluca Bluetooth Rgb Pen Drive Controle Remoto Usb Mp3;R$ 78;5 OFF;R$ 75,04
+173;"Smart TV LG AI ThinQ 43LM6370PSB LED Full HD 43"" 100V/240V";R$ 3.092;26 OFF;R$ 2.269
+174;Par Pneus E Camaras Bike Aro 29x1.95 Pirelli Phantom Street;R$ 198;20 OFF;R$ 159,12
+175;Kit De Pesca Completo 10kg C/ 2 Varas + 2 Molinetes + Itens ;R$ 219;16 OFF;R$ 184,79
+176;Kit Cuba Pia Aço Inox Gourmet Carajás Cozinha E Acessórios;R$ 353;17 OFF;R$ 289,90
+177;Cabo Usb Lightning 2 Metros P/ iPhone C. N.f;R$ 119;23 OFF;R$ 91,63
+178;Pantufa Chocomonstros - Ovo De Páscoa Infantil Cacau Show;R$ 199;8 OFF;R$ 183,90
+179;Cozinha Completa Madesa Reims 260001 Com Armário E Balcão;R$ 1.298;19 OFF;R$ 1.049
+180;Vaso Sanitário Monobloco Completo - Caixa Acoplada Privada;R$ 1.135;13 OFF;R$ 979
+181;Conjunto Gabinete Banheiro Prisma 60cm Com Tampo Vidro;R$ 629;13 OFF;R$ 547,23
+182;Manta Bebê E Naninha Personalizada - Somente Fevereiro;R$ 129;10 OFF;R$ 116,91
+183;Luminária De Chão Classic Moderna Com Pés De Madeira;R$ 379;5 OFF;R$ 360,99
+184;Kit Kimera Thermo + Vitamina C + Creatina 150g;R$ 189;54 OFF;R$ 87,20
+185;Pendrive Sandisk Ultra Shift 128gb Usb 3.0 100mb/s Original ;R$ 148;9 OFF;R$ 134,68
+186;Receptor Century Nanobox Nano Box Antena Parabolica Banda C;R$ 117;10 OFF;R$ 105,83
+187;Câmera Segurança Ip Wifi Auto Tracking Audio Infravermelho;R$ 229;5 OFF;R$ 218,39
+188;Kit 6 Araras Porta Roupa Cabideiro Metal Para Lojas Branco ;R$ 387;9 OFF;R$ 352,17
+189;Fogão cooktop elétrica Philco Smart Chef PCT01 preto 127V;R$ 499;38 OFF;R$ 309
+190;Gin Bombay Sapphire 750 Ml;R$ 139;14 OFF;R$ 119,90
+191;Smartphone Motorola E7 Power 32gb Camera Dupla Azul Metalico;R$ 985;14 OFF;R$ 845
+192;Churrasqueira móvel Gear Mini Bafinho 35cm de largura 40cm de altura 20cm de profundidade preta;R$ 114;12 OFF;R$ 100,04
+193;Mochila Militar Tática Tamanho Ideal 40 Litros Impermeável;R$ 186;8 OFF;R$ 171,27
+194;Kit Alternador 55ah + Ignição Eletrônica Fusca Bras Completo;R$ 1.054;6 OFF;R$ 991,60
+195;Calça Feminina Jeans Cintura Alta Com Lycra Barata Qualidade;R$ 49;8 OFF;R$ 45,90
+196;Tênis Masculino Olymp Olimp Space Caminhada Barato Promoção;R$ 109;8 OFF;R$ 101,10
+197;Panela De Pressão 4,5litros Panelux A Mais Vendida Do Brasil;R$ 64;6 OFF;R$ 61,09
+198;Bailarina De Vidro Hiperfesta Profissional C/rolamento Duplo;R$ 179;18 OFF;R$ 146
+199;Inalador Mesh Multilaser Portatil Branco E Cinza - Hc215;R$ 262;26 OFF;R$ 194,05
+200;Café Torrado E Moído 100% Arábica 500g Jutá;R$ 14;32 OFF;R$ 9,80
+201;Máscara Pigmentante Kamaleão Color - Tonalizante Fantasia;R$ 49;5 OFF;R$ 47,40
+202;Jogo De Panelas Tramontina 10 Peças Antiaderente Exclusivo;R$ 399;15 OFF;R$ 339
+203;Torneira Com Filtro Cozinha  - Metais E Cia;R$ 135;12 OFF;R$ 119,65
+204;Salgadinho de Batata Pringles original 114 g;R$ 10;10 OFF;R$ 9,80
+205;Capacete Giro Isode Bike Ciclismo Mtb Speed Várias Cores;R$ 339;9 OFF;R$ 309,39
+206;Soprador Térmico Vonder Profissional Stv1500n 500° C/4 Bicos;R$ 186;9 OFF;R$ 169,89
+207;Freezer 309 Litros Consul 1 Tampa Classificação A Cha31;;;R$ 2.129
+208;Fritadeira Air Fryer Philco Jumbo Inox Pfr06pi 5,5l 127v;R$ 699;15 OFF;R$ 589,90
+209;Carrinho Auxiliar Organizador Multiuso Salão Beleza 4 Gaveta;R$ 399;30 OFF;R$ 278,94
+210;Capsula Dolce Gusto Chococino Alpino Caixa Com 12 Unidades;R$ 29;28 OFF;R$ 21,49
+211;Blusão De Moletom Canguru Liso Sem Estampa Unissex Barato;R$ 49;11 OFF;R$ 44,49
+212;Buffet Aparador Balcão 4 Portas Para Sala Jantar Estar Branco Retrô Moderno Promoção;R$ 499;14 OFF;R$ 429,99
+213;Papel higiênico Elite Ultra folha dupla 30 m de 24 un;R$ 38;35 OFF;R$ 24,90
+214;Moedor De Café Hamilton Beach Elétrico Em Inox Automático;R$ 319;12 OFF;R$ 279,90
+215;Purificador De Água Pure 4x Pe12b Branco Electrolux;R$ 729;20 OFF;R$ 579
+216;Fonte Colméia 12v 10a 120w Bivolt Estabilizada Led Câmera Pq;R$ 39;10 OFF;R$ 35,99
+217;2 Pneu Pirelli Phantom Slick Aro 26x1.50 + 2 Camaras Pirelli;R$ 137;20 OFF;R$ 110,31
+218;Alto-falante TRC Sound TRC 5515 portátil com bluetooth preto 110V/220V ;R$ 359;38 OFF;R$ 219
+219;Máquina De Cartão Point Pró2 Mercado Pago + Brinde Qr Cod;;;R$ 109
+220;Mini Motinha Elétrica Infantil - Mini Moto Cross P/ Crianças;R$ 949;8 OFF;R$ 873,34
+221;Cerveja Argentina Bohemiam Pilsener Patagonia Garrafa 740ml;R$ 12;30 OFF;R$ 9,09
+222;Kit Ferro De Solda Profissional 60w Estanho E Pasta De Solda;R$ 64;10 OFF;R$ 58,04
+223;iPhone 7 128 Gb Vitrine Prata Desbloqueado Em 12x Sem Juros;R$ 1.399;15 OFF;R$ 1.189
+224;Refil Filtro Consul Cix06ax Para Purificador De Água Cpb34as;R$ 129;11 OFF;R$ 114,90
+225;Torquimetro Estalo Mini P/ Soquete 1/4 5-25 Nm 0,5kg A 2,5kg;R$ 185;7 OFF;R$ 172,97
+226;Varal De Chão Reforçado Com Abas Dobrável Retrátil Stendi;R$ 119;17 OFF;R$ 99
+227;Fritadeira Air Fry Philco Inox Redstone 1500w 4,6l 127v;R$ 619;19 OFF;R$ 499,90
+228;Kit Cauã Reymond Intenso E Azul Desodorantes Colônias Mascul;R$ 167;52 OFF;R$ 79,90
+229;Alarme Automotivo Pósitron Exact Universal Ex 360;R$ 232;5 OFF;R$ 219
+230;Impressora Térmica Cupom Elgin Bematech I9 Full Rede E Usb;R$ 747;20 OFF;R$ 598
+231;Mascara De Solda Escurecimento Automatico Fixa Profissional;R$ 74;11 OFF;R$ 65,86
+232;Smartphone Motorola Moto E20 Dual Sim 6.5 32gb 2gb Ram Cinza;R$ 1.199;33 OFF;R$ 799
+233;Mouse sem fio Logitech  M170 azul e preto;R$ 69;16 OFF;R$ 58,23
+234;Furadeira Parafusadeira Bateria Vonder 12v Pfv012 C/ Kit Bit;R$ 259;8 OFF;R$ 236,51
+235;Ducha Higiênica Luxo Em Metal 1/4 Volta Cromado C65;R$ 49;12 OFF;R$ 43,97
+236;Bar Parede Adega Barzinho Grande Decoração 100% Mdf Oferta;R$ 324;15 OFF;R$ 276,16
+237;Roller Patins Infantil Rosa Quad 4 Rodas Rosa +proteção ;R$ 315;13 OFF;R$ 274,83
+238;Fogão cooktop gás Fischer Infinity 26298 preto 127V/220V;R$ 905;10 OFF;R$ 814,50
+239;Kit 10 Cuecas Box Boxer Zorba Seamless Algodão Sem Costura;R$ 179;10 OFF;R$ 161,90
+240;Fonte Automotiva Jfa 200 Amperes Storm Bivolt C/ Medidor Caa;R$ 788;6 OFF;R$ 735
+241;Gabinete Banheiro Rodinhas Joia 80cm 3 Gavetas Pux. Alumínio;R$ 459;13 OFF;R$ 399,33
+242;Cuba Pia Cozinha Gourmet Aço Inox 50x40 Tubrax C/ Acessórios;R$ 279;23 OFF;R$ 215
+243;Cabo Adaptador Conversor Hdmi Para Vga Com Saída P2 De Áudio;R$ 19;10 OFF;R$ 17,99
+244;No break Ts Shara Compact XPro Universal 1400 1400VA entrada e saída de 115V/220V CA preto;R$ 689;8 OFF;R$ 629
+245;Chapinha de cabelo LadylissPRO Nano Titanium azul 110V/220V;R$ 56;7 OFF;R$ 52,60
+246;Perfume 212 Vip Men Edt 200ml + Brinde - 100% Original;R$ 718;29 OFF;R$ 503,20
+247;Kit Com 12 Cuecas Masculina Boxer Em Microfibra Rp;R$ 129;24 OFF;R$ 98,50
+248;Cercado Gaiola Para Coelho Adulto - Com Polionda  - 60x120cm;R$ 278;6 OFF;R$ 261,97
+249;Colchonete 90 X 40 X 3 Cm D23 Academia / Escola / Ginastica;R$ 25;13 OFF;R$ 22,61
+250;Gabinete Banheiro Espelho/ Cuba Itália Acrd 60cm Branco;R$ 299;13 OFF;R$ 260,13
+251;Kit Chaves Jogo Catraca Reversível Soquetes 40 Peças Maleta;R$ 48;10 OFF;R$ 43,20
+252;Chuveiro elétrico de parede Lorenzetti Tradição cromado 5700W 220V;R$ 237;19 OFF;R$ 192,69
+253;Batedeira de mão/com pedestal Mondial Prática B-44 preta 127 V;R$ 119;16 OFF;R$ 99,90
+254;Ar Condicionado Split Inverter Springer 9000 Btus Frio 220v;R$ 1.899;16 OFF;R$ 1.579
+255;Gaiola De Hamster Com Casa Grande Completa 3 Andares Tubo;R$ 209;10 OFF;R$ 188,10
+256;Máquina de lavar automática Consul CWB09A branca 9kg 127 V;R$ 1.999;15 OFF;R$ 1.699
+257;Cesto Lixo Lixeira 4,5 Litros Pedal Recipiente Plástico Aki;R$ 59;11 OFF;R$ 53,39
+258;Plafon Led Quadrado 18w Painel Sobrepor Slim Avant 1ª Linha;R$ 32;9 OFF;R$ 29,70
+259;Chinelo Kenner Sandália Original Kivah Masculino;R$ 134;10 OFF;R$ 121,41
+260;Bicicleta Aro 29 Krw Alumínio 21 Vel Freio A Disco X51;R$ 1.999;46 OFF;R$ 1.066
+261;Caixa De Som Acústica LG Rn7 Bluetooth, Usb, Entrada P/ Mic;R$ 1.329;9 OFF;R$ 1.199
+262;Rastreador Automotivo Gps Sem Fio Tk905 Melhor Mercado Top;R$ 419;14 OFF;R$ 361,17
+263;Calça Jeans Feminina Reta Hering;R$ 139;50 OFF;R$ 69,99
+264;Ultra Led 12000 Lumêns - H1 H3 H4 H7 H8 H11 H16 H27 Hb3 Hb4;R$ 131;10 OFF;R$ 118,15
+265;Leite Longa Vida Semidesnatado com tampa Italac 1 Litro;R$ 4;6 OFF;R$ 4,12
+266;Kit de controle joystick sem fio Nintendo Switch Joy-Con (L)/(R) vermelho-neón e azul-neón;R$ 419;15 OFF;R$ 354
+267;Kit Jogo Fresas Para Tupia Madeira 12 Peças Haste 6mm Vonder;R$ 149;8 OFF;R$ 136,41
+268;Roupa Naruto Akatsuki Bandana Itachi Com Chaveiro Pop It;R$ 198;32 OFF;R$ 135,31
+269;Comoda Persiana Portas Treliça Quadros Decorativos Mdf Promo;R$ 139;5 OFF;R$ 132,99
+270;6 Caixa Organizadora Guarda Roupa Edredom Cobertor 45x45x20;R$ 120;17 OFF;R$ 99
+271;Carregador Turbo 20w Para iPhone 7 8 Plus X Xr 11 12 Pro;R$ 118;12 OFF;R$ 104,69
+272;Kit 10 Pares Meias Lupo Soquete Cano Curto Algodão Atacado;R$ 129;10 OFF;R$ 116,47
+273;Kit 2 Pares De Tenis Masculino Academia Limited + Relogio;R$ 139;8 OFF;R$ 128,70
+274;Conjunto Infantil Masculino Camiseta + Bermuda Kyly;R$ 114;30 OFF;R$ 80,43
+275;Kit 30 Placas 3d Pvc Revestimento De Parede 50x50 Promoção;R$ 295;9 OFF;R$ 266
+276;Lançamento Copo Termico Cerveja Abridor 500ml;R$ 99;16 OFF;R$ 83,91
+277;1 Par Lampada Led Automotiva H1/h3/h4/h7/h11/hb3/hb4/h11/h27;R$ 45;10 OFF;R$ 40,90
+278;Lavadora De Alta Pressão 1740 Libras K3 Karcher Black;R$ 729;12 OFF;R$ 638
+279;Processador Crossover De Áudio Digital Stetsom Stx2448;R$ 349;14 OFF;R$ 300,14
+280;Fantasia Sexy Noiva Lingerie Sensual Completo + Meia Grátis ;R$ 139;10 OFF;R$ 125,90
+281;Lâmpada Led Bulbo Hp 40w Alta Potencia E27 Branco Frio 6500k;R$ 33;10 OFF;R$ 29,70
+282;Câmera Ip Externa Hd Yoosee Ip66 Prova D'agua Wifi 1080p;R$ 228;8 OFF;R$ 208,29
+283;Caixinha Som Bluetooth Tws Metal Mini Speaker Amplificada 3w;R$ 36;16 OFF;R$ 30,55
+284;Kit Completo Lash Lifting Permanente Cílios Tintura Ox Pads;R$ 119;15 OFF;R$ 101,15
+285;Ultra Led Shocklight H1 H3 H4 H7 H8 H11 H13 H16 H27 Hb3 Hb4;R$ 213;9 OFF;R$ 192,36
+286;Pré Treino Égide 300g Beta Alanina - Max Titanium;R$ 127;16 OFF;R$ 107,34
+287;Kit Brinquedo Educativo Didático Encaixe Bebe Infantil;R$ 88;32 OFF;R$ 59,84
+288;Kit 2 Bermudas Moletom Masculino Academia Esporte Fitness ;R$ 59;13 OFF;R$ 52,17
+289;Refletor Led 200w Holofote Bivolt Branco Frio Prova D Agua;R$ 135;16 OFF;R$ 114
+290;Suporte Para Notebook Alumínio Ajustável Dobrável Ergonômico;R$ 59;6 OFF;R$ 56,30
+291;Cadeira De Praia Piscina Alumínio Alta Colorida Dobrável ;R$ 78;16 OFF;R$ 66,35
+292;"Smart TV TCL P615 Series 50P615-AP DLED 4K 50"" 100V/240V";R$ 3.399;20 OFF;R$ 2.699
+293;Fritadeira Air Fry Jumbo Inox 5,5 Litros Preta Philco 220v;R$ 869;39 OFF;R$ 529,90
+294;Parafusadeira Drywall Gesso 20v + 2 Baterias Dewalt Dcf620;R$ 1.903;9 OFF;R$ 1.732
+295;Macaquinho Feminino Curto Soltinho Social Decote Profundo;R$ 69;11 OFF;R$ 62,21
+296;Kit 12 Peças De Roupa 1 Ao 14 Masculino 6 Camiseta +6 Shorts;R$ 143;8 OFF;R$ 132,38
+297;Parafusadeira Drywall Gesso 20v + 2 Baterias Dewalt Dcf620;R$ 1.903;9 OFF;R$ 1.732
+298;Macaquinho Feminino Curto Soltinho Social Decote Profundo;R$ 69;11 OFF;R$ 62,21
+299;Kit 12 Peças De Roupa 1 Ao 14 Masculino 6 Camiseta +6 Shorts;R$ 143;8 OFF;R$ 132,38
+300;Mesinha Suporte Sala Quarto Decora Lar Lateral Canto Retrô;R$ 191;10 OFF;R$ 172,79
+301;"Notebook Samsung Book E20 cinza 15.6"", Intel Celeron 6305  4GB de RAM 500GB HDD, Intel UHD Graphics Xe G4 48EUs 1920x1080px Windows 11";R$ 3.099;23 OFF;R$ 2.359
+302;Colcha Casal Padrão - 3 Peças - Charlotte;R$ 77;5 OFF;R$ 74
+303;Impressora Multifuncional Epson Ecotank L4260 Usb E Wifi;R$ 1.939;17 OFF;R$ 1.599
+304;Fonte Chaveada 30a 12v 360w P/ Cftv Fita Led Som Automotivo;R$ 69;10 OFF;R$ 62,99
+305;Kit Motor Rossi 1/4 Dz Nano Turbo 36 Portão Deslizante 600kg;R$ 508;9 OFF;R$ 462,50
+306;Sapateira Grande Bis Casal Organizador Sapatos Quarto;R$ 145;14 OFF;R$ 124,70
+307;Termômetro Laser Digital Profissional Industrial E Culinário;R$ 109;9 OFF;R$ 100,07
+308;Processador Expert Px1 Pro Limiter - Px1;R$ 298;14 OFF;R$ 256,28
+309;Disco Diamantado Concreto E Asfalto 350mm Pastilha 15mm 4 Un;R$ 649;17 OFF;R$ 538
+310;Vestido Fantasia Infantil Frozen Rainha Elsa;R$ 78;10 OFF;R$ 71,01
+311;Panela Frigideira Saut Flavor Antiaderente 24cm Fácil Tec;R$ 158;5 OFF;R$ 150
+312;Cadeira De Descanso Musical Vibratória 18kgs Magic Maxi Baby;R$ 329;24 OFF;R$ 249,90
+313;Kit 12 Peças De Roupa Infantil Menino Bebe Masculino Atacado;R$ 135;11 OFF;R$ 120,95
+314;Headset Plantronics C3210 Blackwire Usb;R$ 274;10 OFF;R$ 246,60
+315;Blusão Manga Longa Com Capuz Em Moletom Peluciado Hering;R$ 59;16 OFF;R$ 49,99
+316;"Monitor gamer AOC G2 27G2HE5 led 27 "" preto e vermelho 100V/240V";R$ 1.499;13 OFF;R$ 1.299
+317;Impressora Não Fiscal Térmica 80mm Usb Rede Com Guilhotina;R$ 529;9 OFF;R$ 482,19
+318;Cuba Cozinha Gourmet Pia Dupla Aço Inox E Acessórios Ticunas;R$ 446;11 OFF;R$ 394,90
+319;Cadeira De Banho Para Higiene Adulto E Idoso Pronta Entrega;R$ 266;10 OFF;R$ 240,21
+320;Manta Asfáltica Aluminizada Telhado Auto Adesiva- 60cm X 10m;R$ 144;8 OFF;R$ 131,86
+321;Pasta De Amendoim Com Whey Isolado 650g - Dr Peanut;R$ 49;16 OFF;R$ 41,91
+322;"Tablet  Multilaser M7 32gb Princesas NB372 7"" 32GB preto/rosa e 1GB de memória RAM";R$ 679;42 OFF;R$ 389
+323;Suplemento em  barra Probiótica  Whey Bar proteínas sabor  cookies & cream em display de 960g 24 un;R$ 107;26 OFF;R$ 78,99
+324;Suplemento em  barra Probiótica  Whey Bar proteínas sabor  cookies & cream em display de 960g 24 un;R$ 107;26 OFF;R$ 78,99
+325;Tela Display Compativel J4+ J6 Plus J4 Core J410 J610 + Cola;R$ 183;11 OFF;R$ 162,49
+326;Porta Temperos Porta Condimentos Giratório  12 Potes Cozinha;R$ 62;8 OFF;R$ 57,95
+327;10 Pano De Chao Branco Alvejado Saco  Para Limpeza Em Geral;R$ 33;20 OFF;R$ 26,72
+328;Processador Expert Px2 Connect Bluetooth  Px-2 Mais Brinde;R$ 404;14 OFF;R$ 347,44
+329;Marmita Elétrica Gourmet Bivolt - Multilaser Nota Fiscal;R$ 119;15 OFF;R$ 100
+330;Controle Longa Distancia Stetsom Sx2 Light Completo Colorido;R$ 77;33 OFF;R$ 52
+331;Protetor Eletrônico Para Pc - 1000va 110/127 Mono | Involts ;R$ 94;5 OFF;R$ 90,15
+332;Fone De Ouvido H'maston Mini Fone Bluetooth Promoção;R$ 99;10 OFF;R$ 89,99
+333;Bolsa Sacola Térmica Lancheira Marmita Academia E Passeios;R$ 29;6 OFF;R$ 28,10
+334;"Suporte Prime Tech SA-4M-22-65 de parede para TV/Monitor de 22"" até 65"" preto";R$ 78;12 OFF;R$ 69,43
+335;Troninho Infantil Fazendinha Musical Desfralde -prime Baby R;R$ 121;8 OFF;R$ 112,14
+336;Tenda Praia Sanfonada Gazebo 3x3 Articulado Pé Aluminio;R$ 779;10 OFF;R$ 701,91
+337;4 Lipotramina Tratamento Mais Vendido;R$ 410;16 OFF;R$ 344,40
+338;Cabo Rca Som Carro 5 Metros 5m Blindado Stetsom Prata 4mm;R$ 82;10 OFF;R$ 74,61
+339;Guarda Roupa Casal Madesa Mônaco 3 Portas Correr Com Espelho;R$ 999;27 OFF;R$ 729,99
+340;Jogo 4 Calota Gm Chevrolet Todos Aro 14 Prata Emblema Preto;R$ 75;10 OFF;R$ 67,87
+341;Luvas descartáveis Talge Vinil sem pó cor transparente tamanho  G de vinilo x  100 unidades ;R$ 27;10 OFF;R$ 24,49
+342;Kit 3 Sutiãs Com Bojo Alça Reforçada Cores Lisas Full252;R$ 67;11 OFF;R$ 59,49
+343;Caixa Trio Som Completa Bomber One 12 + Módulo Taramps ;R$ 786;10 OFF;R$ 707,66
+344;Vodka Destilada Saborizada Mango Absolut Garrafa 750ml;R$ 99;34 OFF;R$ 64,99
+345;Carabina Espingarda Rifle Pressão Cbc Jade 5.5 + Luneta;R$ 799;17 OFF;R$ 659,52
+346;Microfones Vokal VWS-20 Plus dinâmico  unidirecional;R$ 379;18 OFF;R$ 309
+347;Carrinho Controle Remoto Brinquedo Pickup 4x4 Giro 360 Graus;R$ 227;10 OFF;R$ 205,11
+348;Paquímetro Digital 6 Em Aço Inox 150mm Mtx Estojo E Bateria;R$ 78;12 OFF;R$ 68,64
+349;Micro-ondas Panasonic NN-ST65L   branco e cinza 34L 127V;R$ 859;22 OFF;R$ 669
+350;Micro-ondas Panasonic NN-ST55LMRU   prata 27L 127V;R$ 749;10 OFF;R$ 669
+351;Fone De Ouvido Lightning Lacrado - iPhone 11 12 Pro Original;R$ 164;6 OFF;R$ 152,98
+352;Kit C/ 15 Toalhas De Banho - 65cm X 1,25m (270gm²) Atacado;R$ 209;16 OFF;R$ 176
+353;Extensor Hdmi Rj45 60m 60 Metros Adaptador Cabo Rede Cat 6 7;R$ 149;10 OFF;R$ 134,10
+354;Par Lâmpada Super Led 6000k H1 H3 H7 H8 H11 H16 H27 Hb3 Hb4;R$ 68;9 OFF;R$ 61,88
+355;Grade Portão Proteção Pet Cachorro 69 A 84 Cm Criança Cães!!;R$ 72;10 OFF;R$ 65,61
+356;Varal Roupas De Chão Com Abas Portatil Grande Nao Enferruja;R$ 129;11 OFF;R$ 115
+357;Lixeira Quadrada 4 Litros Com Tampa Inox;R$ 439;14 OFF;R$ 377,54
+358;Cadeira De Alimentação Assento Cadeirinha Bebe Poke Cores;R$ 329;10 OFF;R$ 296,10
+359;Amaciante Downy Perfume Collection Adorável em frasco 1.35 L;R$ 34;36 OFF;R$ 21,90
+360;Fio Elétrico Flexivel 10mm X 50mts Colorido Cabo Autoflex;R$ 329;12 OFF;R$ 289,52
+361;Nokia Cseries C20 Dual SIM 32 GB areia 2 GB RAM;R$ 674;8 OFF;R$ 619
+362;Amaciante Downy Naturals Coco e menta em frasco 1.35 L;R$ 34;36 OFF;R$ 21,90
+363;Blow Gummies Crescimento Capilar 60 Dias Tratamento Morango;R$ 177;31 OFF;R$ 122,06
+364;Kit 2 Pneus Bike Pirelli Phantom Street 700x32 Aro 29 Arame;R$ 109;16 OFF;R$ 91,22
+365;Furadeira Parafusadeira Impacto 12v Com Maleta Pi-10ma Mondi;R$ 199;5 OFF;R$ 189,05
+366;Pano Multiuso Tipo Perfex 50 Unidades Rolo 28cm X 25 Metros;R$ 29;51 OFF;R$ 13,99
+367;Termometro Laser Digital Industrial Temperatura -50 A 400°c;R$ 129;7 OFF;R$ 120,89
+368;48 Esmaltes Preta Gil 9ml Preço Atacado - Envio Imediato;R$ 139;14 OFF;R$ 120,31
+369;Receptor Midiabox B3 Century E Conversor Digital Terrestre ;R$ 399;10 OFF;R$ 359,10
+370;Maleta De Maquiagem Completa Ruby Rose Super Completa;R$ 191;10 OFF;R$ 172,62
+371;Serra Tico Tico 450w Ptt01 Philco Com Lamina Marceneiro;R$ 181;8 OFF;R$ 165,53
+372;Home Theater JBL Bar 9.1 black 100V/240V;R$ 5.999;15 OFF;R$ 5.099
+373;Cápsula De Café Red Super Forte Para Máquinas Nespresso* ;R$ 15;25 OFF;R$ 11,90
+374;Skimmer Boca Larga Abs Alvenaria Fibra P/ Piscina Branco;R$ 399;11 OFF;R$ 355,11
+375;Tênis Wave Dynasty 4 Mizuno;R$ 399;11 OFF;R$ 352,70
+376;Mini Fonte Colmeia 12v 10a Cftv Câmera Etc Fita Led Rgb;R$ 29;10 OFF;R$ 26,99
+377;Armadilha Elétrica Mata Moscas Insetos Mosquitos Pernilongos;R$ 397;14 OFF;R$ 341,84
+378;Fone de ouvido in-ear sem fio QCY T5 black;R$ 105;10 OFF;R$ 94,50
+379;Dior Sauvage Edt 100ml Masculino Adipec | Amostra Brinde;R$ 556;15 OFF;R$ 472,60
+380;Jogo Calota Centro Roda Ferro Vw Amarok Aro 13 / 14 / 15 Gol G3 2000 2001 2002 2003 2004 2005 G4 G5 09 2010 2011 2012 G6;R$ 49;5 OFF;R$ 47,49
+381;Grade De Porta Portão Proteção Cachorro Criança 149 A 154 Cm;R$ 179;5 OFF;R$ 170,90
+382;Apple iPhone 11 (64 GB) - (PRODUCT)RED;R$ 5.699;28 OFF;R$ 4.049
+383;Cadeira de escritório Pctop Office Fit 1001 9050  preta com estofado de tecido y mesh;R$ 339;10 OFF;R$ 305,10
+384;Cadeira de escritório Pctop Office Fit 1001 9050  preta com estofado de tecido y mesh;R$ 339;10 OFF;R$ 305,10
+385;Doce De Banana Paraibuna Zero Açúcar Caixa 40un Sem Glúten;R$ 78;14 OFF;R$ 67,93
+386;Receptor Nanobox Century Para Antena Parabólicas Banda C ;R$ 118;5 OFF;R$ 112,95
+387; 3 Caçarola Panela Industrial Restaurante Feijoada N26/28/30;R$ 224;10 OFF;R$ 202,05
+388;Kit 4 Cabos Rca 1 Metro Tech One Blindado Vermelho;R$ 71;10 OFF;R$ 64,71
+389;Kit Colchão Inflável  Casal Queen Com Bomba De Inflar;R$ 199;16 OFF;R$ 167,16
+390;Kit 10 Painel Plafon Quadrado Sobrepor 100% Led 18w Luz Fria;R$ 277;13 OFF;R$ 241
+391;Kit Barra De Led Samsung Un50nu7100 Un50nu7100g Un50ru7100 ;R$ 97;10 OFF;R$ 87,30
+392;Corda De Pular Profissional Aço Alumínio Speed Rope Crossfit;R$ 54;13 OFF;R$ 47,76
+393;Garrafa Termica Aco Inox B'kind 1 Litro - Gelada Por Até 24h;R$ 189;16 OFF;R$ 159,51
+394;Organizador De Sapatos Em Madeira Pinus 3 Andares Promoção;R$ 56;6 OFF;R$ 52,96
+395;Smartphone Moto G60 128gb 6gb Ram 4g Wi-fi 6.8  Champagne;R$ 2.699;28 OFF;R$ 1.929
+396;Calça Jeans Feminina Com Rasgos Levanta Bumbum Índigo Sawary;R$ 139;30 OFF;R$ 96,99
+397;Fonte Automotiva Usina 70a Smart Battery Metter Bivolt 12v ;R$ 449;15 OFF;R$ 381,65
+398;Cabideiro Roupas - Arara De Roupas - Promoção;R$ 64;11 OFF;R$ 57,84
+399;Monitor Aoc Led 23.6 Full Hd 60hz 5ms Vga Hdmi Wva Preto M24;R$ 1.151;20 OFF;R$ 918
+400;Led Plafon Painel 18w Quadrado Embutir Slim Borda Fina;R$ 29;11 OFF;R$ 26
+401;Garrafa Termica Aco Inox Estilo Swell Stanley B'kind 750 Ml;R$ 169;16 OFF;R$ 142,71
+402;Travesseiro Antialérgico Siliconado 4 Peças 50cm X 70cm ;R$ 159;11 OFF;R$ 142
+403;Mala Pequena De Bordo Londres 4 Rodas Swiss Move Vinho;R$ 329;23 OFF;R$ 253,59
+404;Garrafa Termica Aco Inox Swell B'kind - Agua Gelada 24 Hrs;R$ 149;16 OFF;R$ 125,91
+405;Kit 10 Máscaras N95 Proteção Respiratória Pff2 Reutilizável.;R$ 24;15 OFF;R$ 20,69
+406;Kit 10 Plafon Sobrepor 25w 24w Painel  Led Quadrado + Reator;R$ 389;8 OFF;R$ 355
+407;Impressora Multifuncional Epson Ecotank L3250 Wi-fi Wireless;R$ 1.499;21 OFF;R$ 1.179
+408;Saponaceo Cremoso Classico Sapolio Radium 450ml;R$ 11;16 OFF;R$ 9,79
+409;Kit 5 Mini Band + Kit 11 Elastico Extensor Treino Em Casa;R$ 43;13 OFF;R$ 37,41
+410;Super Kit Para Limpeza Piscina  Cabo 4,4 M Fibra E Vinil 8 M;R$ 319;10 OFF;R$ 287,91
+411;Sapato Branco Couro Ecológico Promoção;R$ 89;8 OFF;R$ 81,88
+412;2 Pneus Aro 29x2.20 Pirelli Scorpion Pro+ Câmaras+ Adaptador;R$ 239;20 OFF;R$ 191,92
+413;Cortina Luxo Varão Voil Sala  5 Metros Com Forro Microfibra;R$ 184;10 OFF;R$ 166,49
+414;Microfone Sem Fio Duplo Vhf Profissional Vokal Vws-20 Plus;R$ 379;18 OFF;R$ 309
+415;Fone De Ouvido H'maston Mini Fone Bluetooth + Brinde;R$ 99;10 OFF;R$ 89,99
+416;Lipotramina Original Com Nota Fiscal - Revendedor Autorizado;R$ 209;20 OFF;R$ 165,47
+417;Motor De Partida S10 Blazer 4.3 V6 Todas Com Motores Vortex ;R$ 576;15 OFF;R$ 489,60
+418;Kit 10 Calcinhas Cotton Liso Algodão Adulto Revenda Atacado;R$ 59;10 OFF;R$ 53,91
+419;Purificador De Água Eletrônico Colormaq Branco Natural E Gelada - Bivolt;R$ 557;10 OFF;R$ 501,93
+420;Sala De Jantar Madesa Talita Mesa Tampo Madeira 4 Cadeiras;R$ 819;40 OFF;R$ 489,99
+421;Kit 10 Calcinhas Feminina Biquíni Algodão Moderna;R$ 119;42 OFF;R$ 68,60
+422;Pedal Clip Wellgo M919 Rolamento Mtb C/ Tacos Original Nfe;R$ 245;20 OFF;R$ 196
+423;Blusa Blusinha Feminina Manga Curta Bufante Princesa Canelad;R$ 25;8 OFF;R$ 23,82
+424;Case Disco Rígido Hd Externo 2.5 Usb 3.0 6gbps 6tb Pc Ps4;R$ 39;10 OFF;R$ 35,90
+425;Fonte Estabilizada Bivolt Para Cftv Ou Receptor De Tv 12v 2a;R$ 25;10 OFF;R$ 23,39
+426;Kit 10 Esponja Mágica Bucha Melamina Buchinha Buxa Manchas;R$ 29;11 OFF;R$ 26,58
+427;Pano De Chao Atacado Premium Grande Kit Com 10 Peças;R$ 29;11 OFF;R$ 26,25
+428;Café Solúvel Starbucks Medium Roast Premium Instant Lata 90g;R$ 25;14 OFF;R$ 21,90
+429;Sapatilha Protetora Infantil Antiderrapante Macia Magic S099;R$ 33;5 OFF;R$ 32,20
+430;Kit 2 Pijamas De Frio Feminino Adulto Inverno Longo Revenda;R$ 129;10 OFF;R$ 116,82
+431;Escova Dental Ultramacia Curaprox 3 Unidades;R$ 72;8 OFF;R$ 66,04
+432;Sapatilha Protetora Infantil Antiderrapante Macia Magic S099;R$ 33;5 OFF;R$ 32,20
+433;Kit 2 Pijamas De Frio Feminino Adulto Inverno Longo Revenda;R$ 129;10 OFF;R$ 116,82
+434;Toca Barraca Infantil Floresta Divertida Dobravel + Bolinha;R$ 156;10 OFF;R$ 141,21
+435;Cápsula De Café Red Intenso Para Máquinas Nespresso* ;R$ 15;25 OFF;R$ 11,90
+436;Eletrosserra Elétrica Motoserra 14 Pol 1200w Saw1200 Intech;R$ 388;9 OFF;R$ 353,08
+437;Kit 4 Banquetas Atlanta P/cozinha, Balcão, Bar, Bistrô, ;R$ 458;25 OFF;R$ 344,07
+438;Macaco Tipo Sanfona Universal 1000 Kg Carros Passeio Com Nf;R$ 109;15 OFF;R$ 93,49
+439;Kit 10 Esponja Mágica Bucha Melamina Tira Mancha Original;R$ 26;11 OFF;R$ 23,37
+440;Kit 3 Pares De Tênis Masculino Sapatenis Da Polo Way Barato;R$ 199;8 OFF;R$ 183,90
+441;Suporte Transbike  P/ 2 Bikes Apoio Sedan Hatch Aço;R$ 159;20 OFF;R$ 127,20
+442;Balança Digital Lcd Alta Precisão Portátil;R$ 24;6 OFF;R$ 23,49
+443;Cordão  Bailarina Ouro 18 K 750 50cm ;R$ 366;8 OFF;R$ 337,16
+444;Cera Para Laminados E Vinílicos Resistente - Brilhante - 1 L;R$ 132;14 OFF;R$ 114,30
+445;Kit 10 Mini Lysoform 55ml / 40g -de Bolsa/ Viagem Aproveite!;R$ 129;14 OFF;R$ 111,71
+446;Patinete Mega Compras BV0021  branco  para jovens, adultos, crianças;R$ 414;20 OFF;R$ 330
+447;Difusor Ambiente Secar 100ml Lavanda Do Campo Aromatizador;R$ 18;20 OFF;R$ 15,19
+448;Baba Eletrônica Sem Fio Tela Lcd Com Câmera Noturna;R$ 374;10 OFF;R$ 336,60
+449;Lote 2 Calças Jeans Wide Leg Retro Moda Feminina Lançamento;R$ 139;11 OFF;R$ 123,71
+450;Kit 3 Calcinhas Feminina Biquíni Delrio;R$ 39;32 OFF;R$ 27,16
+451;Kit 3 Pano Mágico De Chão Microfibra Limpeza Geral 50x60cm;R$ 20;14 OFF;R$ 18,05
+452;Fonte Chaveada 12v 50a 600w Bivolt P/ Câmera Cftv Fita Led;R$ 108;10 OFF;R$ 97,98
+453;Livro Harry Potter Coleção Série Completa (box 7 Livros);R$ 197;10 OFF;R$ 177,30
+454;Pano De Chão Atacado Limpeza Saco Xadrez Grande Kit 10 U;R$ 19;14 OFF;R$ 17,19
+455;Máscara Cirúrgica Tripla Descartável Com Elástico - Clássica;R$ 24;15 OFF;R$ 21,24
+456;Lava e seca automática LG VC4 CV5013 inverter branca 13kg 220 V;R$ 4.740;18 OFF;R$ 3.869
+457;Tenis De Corrida Ultra Leve Feminino Olympikus 130 Gramas;R$ 189;10 OFF;R$ 170,99
+458;Kit Com 6 Pares De Meias Esportivas Cano Alto Branca Hanes;R$ 93;49 OFF;R$ 47,41
+459;Cinta Modeladora Macacão Body Afina Cintura Com Fecho E Bojo;R$ 99;6 OFF;R$ 93,81
+460;Kit 3 Calças Legging Feminina Preto Basicamente;R$ 139;32 OFF;R$ 93,99
+461;Samsung Galaxy Note20 5G 256 GB cinza-místico 8 GB RAM;R$ 4.199;16 OFF;R$ 3.499
+462;Jogo Halo Infinite: Edição Exclusiva - Xbox;R$ 179;56 OFF;R$ 79
+463;Atacado 10 Camisa Masculina Long Line Estampadas Oversized ;R$ 189;8 OFF;R$ 173,88
+464;"Smart TV Philco PTV58G70RCBL LED 4K 58"" 110V/220V";R$ 3.499;11 OFF;R$ 3.099
+465;Geladeira frost free Panasonic NR-BT40 branca com freezer 387L 127V;R$ 3.299;6 OFF;R$ 3.099
+466;Gabinete De Pia Gemeos 1,20m;R$ 289;5 OFF;R$ 274,55
+467;Capa Para Cobrir Carro Premium Impermeável Luxcar;;;R$ 76,53
+468;Apple iPhone SE (2a geração) 64 GB - Preto;R$ 3.699;24 OFF;R$ 2.783
+469;"Smart TV Philips 7600 Series 50PUG7625/78 LED 4K 50"" 110V/240V";R$ 3.899;33 OFF;R$ 2.599
+470;Amaciante Mon Bijou Baby Ciranda Cirandinha 1l;R$ 12;16 OFF;R$ 10,38
+471;Papel De Parede Adesivo Ripas De Madeira Clara Lavável 10 M;R$ 139;12 OFF;R$ 122,36
+472;Kit 20 Máscaras Respiratória Proteção Facial 5 Camadas Kn95;R$ 39;13 OFF;R$ 34,62
+473;Bomba Pressurizadora Bfl120 Intech Machine;R$ 329;12 OFF;R$ 290,31
+474;Kit 10 Pano De Chão Aberto Grande Branco De Algodão Alvejado;R$ 36;9 OFF;R$ 33,45
+475;Tapete 2,00 X 1,50 Pelos Altos Felpo Felpudo Pra Sala Quarto;R$ 99;10 OFF;R$ 89,91
+476;3x Sweet Grow Vitamina Para Cabelos E Unhas 90 Dias;R$ 109;16 OFF;R$ 91,56
+477;Controle Remoto Universal Para Smart Tv Samsung LG Netflix;R$ 26;10 OFF;R$ 24,21
+478;iPhone 8 Plus 64 Gb Vitrine I Apple Promo  Pronta-entrega;R$ 2.399;15 OFF;R$ 2.039
+479;Luva Magica Limpeza De Silicone Escova Esponja Lavar Louça;R$ 18;14 OFF;R$ 16,25
+480;Samsung Galaxy A71 Dual SIM 128 GB cinza 6 GB RAM;R$ 3.499;40 OFF;R$ 2.099
+481;Jg De Utensilios Bambus 6pcs Nt Com;R$ 139;57 OFF;R$ 59,99
+482;Impressora Termica Cupom Elgin I8 Full Ethernet Serial E Usb;R$ 597;10 OFF;R$ 537,30
+483;Kit 5 Bermudas Moletom Academia Treino Atacado Original Top;R$ 98;11 OFF;R$ 88,02
+484;Impressora Multifuncional Epson Ecotank L4260 Usb E Wifi;R$ 1.999;13 OFF;R$ 1.729
+485;Lenço Umedecido Demaquilante Nivea Ação Refrescante - 25 Un;R$ 25;40 OFF;R$ 14,99
+486;Café Sol Starbucks Medium Roast Prem Soluble Caixa 23g 10 Um;R$ 22;14 OFF;R$ 18,90
+487;Kit Barras Led 32lb550b 32lb560b 32lb570b 32lf510b 32ly340;R$ 97;10 OFF;R$ 88,11
+488;Botton Sonda Gastrostomia Mic-key 18fr 2,0 Cm  Gtt ;R$ 1.698;5 OFF;R$ 1.614
+489;Suporte Bicicleta Carro Transbike Para 2 Bikes Hatch E Sedan;R$ 184;20 OFF;R$ 147,99
+490;Bombril Esponja De Aço Eco 1001 Utilidades 8 Unidades 60g;R$ 2;20 OFF;R$ 2,39
+491;Ventokit Exaustor Veneziana E Tubo Ventisol 100mm 110v 220v;R$ 177;12 OFF;R$ 155,76
+492;Plafon Painel Led 25w Embutir Quadrado Slim Borda Fina;R$ 46;11 OFF;R$ 41
+493;Teclado Gamer Semi Mecanico Barato Iluminado Rgb Em Ptbr;R$ 78;10 OFF;R$ 71,01
+494;Relógio Technos Masculino Dourado Digiana Original Nf-e;R$ 799;21 OFF;R$ 629
+495;Tira Silicone Gel Vidro Remove Pu Ecológico Tubo Não Tóxico ;R$ 29;14 OFF;R$ 25,19
+496;Impressora Térmica Epson Tm-t20x Não Fiscal Usb Guilhotina;R$ 749;18 OFF;R$ 609
+497;8 Calcinhas Cintura Alta Cós Alto 9 Cm Sem Costura Hangar M.;R$ 119;10 OFF;R$ 107,90
+498;Kit 60 Cabides Pretos Para Loja Envio Premium Para Atacado;R$ 69;18 OFF;R$ 57
+499;Limpeza Pesada Limpol Lavanda 500ml;R$ 5;16 OFF;R$ 4,62
+500;Limpador Baby Limpol Gatilho 500ml;R$ 13;17 OFF;R$ 11,30
+501;Trio Capa Cilindros + Painel Veste Fácil Diversos Modelos;R$ 219;12 OFF;R$ 192,72
+502;Lousa Planner Minha Semana Rosa 20x26cm C/ Caneta;R$ 16;10 OFF;R$ 15,21
+503;Fraldas Huggies Supreme Care XG 52 u;R$ 75;21 OFF;R$ 59,60
+504;Carregador Ac Oem Lenovo 65w Usb-c Tipo-c Adlx65ylc3a Orig.;R$ 218;5 OFF;R$ 208,04
+505;Fonte Colméia 12v 5a 60w S60-12 Cftv Led Bivolt ;R$ 35;10 OFF;R$ 32,21
+506;Farol De Barra Led Auxilar 9d 288w 12-60v Universal Off-road;R$ 211;10 OFF;R$ 189,99
+507;Kit 10 Spot Led Quadrado 5w Bivolt Direcionável Branco Frio;R$ 139;10 OFF;R$ 124,72
+508;Kit 32 Ventosas Terapêuticas Ventosaterapia Massagem Bomba;R$ 224;15 OFF;R$ 190,81
+509;Aparelho De Pressão Arterial Automático Omron Hem-6124;R$ 129;7 OFF;R$ 119,89
+510;Bota Feminina Montaria Pack Com 3x Unidades Promoçao Inverno;R$ 199;8 OFF;R$ 183,91
+511;Motor 12v P/ Moto Elétrica E Quadriciclo Bandeirante;R$ 130;5 OFF;R$ 123,50
+512;Led Tubular T5 90cm 14w C/calha Acoplada Completa Ligação Continua;R$ 35;8 OFF;R$ 32,65
+513;Mamadeira Lillo Kit 3 Pçs 50/150/240ml Rosa - Oferta;R$ 59;16 OFF;R$ 49,90
+514;Mural Planner Minha Semana Rosa 60x40cm;R$ 49;10 OFF;R$ 44,99
+515;Tênis Feminino Casual Tira Dupla Aderente Calce Fácil Kolosh;R$ 169;12 OFF;R$ 148,80
+516;Quadro Lousa Planner 40x60cm Planner Semanal2 + Caneta + Ímã;R$ 49;10 OFF;R$ 44,91
+517;Cofre Eletrônico Digital Senha Ou Chave 23x17x17;R$ 197;10 OFF;R$ 178,19
+518;Lixadeira   orbital Philco Force PLO01  azul-turquesa 250W 127V;R$ 210;13 OFF;R$ 181
+519;Case Estojo Bolsa Mala Para - Jbl Boombox Com Bolso Nova;R$ 129;10 OFF;R$ 116,99
+520;Kit Barras Led Neshop Para Tv 43pfg5813/78 43s5295/78 ;R$ 129;10 OFF;R$ 116,99
+521;Quadro Lousa Planner 40x60cm Planej. Semanal + Caneta + Ímã;R$ 39;10 OFF;R$ 35,99
+522;Capa Para Cobrir Carro Dualpro Impermeável Luxcar;R$ 129;11 OFF;R$ 115,61
+523;Garrafa Caramanhola Squeeze Térmica Para Bicicleta 700ml;R$ 33;13 OFF;R$ 29,12
+524;Bola De Pilates Suíça 65 Cm Fisioterapia Yoga  Academia;R$ 58;13 OFF;R$ 51,32
+525;Secador de cabelo Mondial Style SC-11 vermelho e preto 220V;R$ 139;35 OFF;R$ 89,90
+526;Quadro Lousa Planner 40x60cm Office + Caneta + Ímã;R$ 49;10 OFF;R$ 44,99
+527;Shampoo Siàge Cauterização Dos Fios 250ml;R$ 33;24 OFF;R$ 25,54
+528;Quadro Lousa Planner Minha Semana 40x60cm + Caneta + Ímã;R$ 49;10 OFF;R$ 44,99
+529;Mouse sem fio Logitech  Pebble M350 branco-cru;R$ 114;14 OFF;R$ 98,43
+530;Blocos de montar  Lego Minecraft The bee farm 238 peças  em  caixa;R$ 199;10 OFF;R$ 179,91
+531;Relogio Masculino Esportivo Digital Tuguir Original Barato;R$ 129;11 OFF;R$ 114,90
+532;Kit 6 Spot Led Quadrado 5w Bivolt Direcionável Branco Frio;R$ 95;10 OFF;R$ 85,53
+533;Tupia Manual Laminados 530w Makita 3709 C/ Kit Completo;R$ 509;8 OFF;R$ 469,10
+534;Som Automotivo Bluetooth Rádio Usb Mp3 Sd Fm Auxiliar P2;R$ 169;52 OFF;R$ 81
+535;Almofada Elefante Pelúcia 60cm Travesseiro Bebê Antialérgico;R$ 73;10 OFF;R$ 66,51
+536;Puff Pera Duplo Redondo Gigante Com Enchimento  Sala ;R$ 298;6 OFF;R$ 280,12
+537;6 Unid Removedor Ecológico Limpeza Sem Cheiro 1litro Atacado;R$ 89;14 OFF;R$ 77,31
+538;Filtro Refil Compatível Eletrolux Pe11b Pe11x Pappca40;R$ 63;10 OFF;R$ 57,59
+539;Cerveja Belga Witbier Hoegaarden Long Neck 330ml;R$ 8;30 OFF;R$ 6,29
+540; Azzaro pour Homme EDT 30 ml para homem;R$ 130;15 OFF;R$ 110,50
+541;Gel Esfoliante Corporal Nativa Spa Ginseng E Cafeína 200g;;;R$ 44,40
+542;Escova Secadora Cadence Rouge Style 4 Em 1 Esc700 220v;R$ 157;39 OFF;R$ 95,90
+543;Tira Limo Pinho Bril Accept Gatilho 500ml;R$ 16;16 OFF;R$ 13,46
+544;Faqueiro 24 Peças Buzios Inox 23799071 Tramontina ;R$ 78;10 OFF;R$ 71,01
+545;Alto-falante TRC Sound TRC 5536 portátil com bluetooth preto 110V/240V ;R$ 699;39 OFF;R$ 424
+546;Sapateira Para Porta De Casa Em Madeira Pinus Organizador;R$ 49;14 OFF;R$ 42,99
+547;Lipotramina Original Com Nota Fiscal;;;R$ 165,39
+548;Coluna Torre 30cm Aço Inox 304 Guarda Corpo Sacada Corrimao;R$ 78;13 OFF;R$ 68,64
+549;Conjunto De Prata Feminino Corrente E Brincos Com Zircônia ;R$ 88;8 OFF;R$ 81,78
+550;Caixa De Som Amplificada Automotiva Slim Sub 8 Polegadas;R$ 436;5 OFF;R$ 414,20
+551;Quadro Lousa Planner 40x60cm Planejamento + Caneta + Ímã;R$ 39;10 OFF;R$ 35,99
+552;Capa Para Cobrir Moto Impermeável Leve E Resistente Luxcar;R$ 56;15 OFF;R$ 47,80
+553;4 Cápsulas Dolce Gusto Reutilizáveis Com Colher E Pincel;R$ 24;10 OFF;R$ 22,41
+554;Coleção Especial George Orwell;R$ 44;30 OFF;R$ 31,43
+555;Pano De Chão Alvejado Xadrez Kit Com 10 Unidades 34x60cm;R$ 35;14 OFF;R$ 30,87
+556;Forma Pudim Decorado 26 Cm Fun Cook Ve;R$ 69;28 OFF;R$ 49,99
+557;Barbeador 9 Em 1 Multilaser Bivolt Preto - Eb041;R$ 106;6 OFF;R$ 99,90
+558;Quadro Lousa Planner 40x60cm Office4 + Caneta + Ímã;R$ 49;10 OFF;R$ 44,99
+559;Copo Térmico Nautika 24hr Conservação 570ml Avalon - Preto  ;R$ 129;16 OFF;R$ 109,11
+560;Rodo Passa Cera Espuma Para Pisos Frios E Madeira Kit C/2;R$ 30;14 OFF;R$ 25,89
+561;Bermuda Ciclismo Mauro Ribeiro Masculina Pocket Preta;R$ 184;11 OFF;R$ 164,42
+562;Bolsa Transversal Feminina Com Zíper Selten;R$ 74;20 OFF;R$ 59,97
+563;Sandália Via Marte Salto Taça Cristal Tira Vinil 22-4904;R$ 179;12 OFF;R$ 158,39
+564;Peneira Smart 8 Cm Ix Ntcy;R$ 8;7 OFF;R$ 7,99
+565;"Smartwatch Amazfit Basic Bip U Pro 1.43"" caixa de  policarbonato  black, pulseira  black de  borracha de silicone A2008";R$ 408;5 OFF;R$ 387,60
+566;Kit Xenon H1 H3 H7 H11 Hb3 H8 H16 H27 8000k;R$ 116;10 OFF;R$ 104,74
+567;Maleta De Maquiagem Completa Ruby Rose Essencial;R$ 170;7 OFF;R$ 157,76
+568;Neo Dermo Etage Elastin E Lifiting 50g Eudora;R$ 69;6 OFF;R$ 65,60
+569;Tênis Asics Gel Rocket  Squash Indoor Original 1magnus;R$ 399;10 OFF;R$ 359,98
+570;Caneca De Vidro Irish Coffee Pavillion 240ml - Haus;R$ 23;37 OFF;R$ 14,90
+571;Mural Planner 40x60cm Planner Semanal 2 ;R$ 49;10 OFF;R$ 44,99
+572;Quadro Mulher Negra Maquiagem Dourado 40x60cm ;R$ 35;10 OFF;R$ 32,39
+573;Quadro Mulher Negra Maquiagem Dourado 40x60cm ;R$ 35;10 OFF;R$ 32,39
+574;Bebida Láctea UHT Coco com Batata-Doce Zero Lactose Yopro 15g High Protein Caixa 250ml;R$ 8;34 OFF;R$ 5,49
+575;Coqueteleira Shaker C/ Mola - Academia 600ml Integral Médica;R$ 18;13 OFF;R$ 16,44
+576;Manta Para Sofá Luxo Gigante;R$ 49;10 OFF;R$ 44,91
+577;Jogo De Copos Baixo Spire 6 Peças - Home Style;R$ 45;34 OFF;R$ 29,99
+578;Cordão Femino Bailarina Ouro 18 K 750 40cm Pingente Coração ;R$ 376;8 OFF;R$ 346,49
+579;Aromatizante Cheirinho Carro New Fresh Fragrâncias Luxcar;R$ 18;22 OFF;R$ 14,74
+580;Mesa Dobravel Portatil Vira Maleta Camping Praia 60x45cm;R$ 169;10 OFF;R$ 152,10
+581;Guarda Chuva Grande Reforçado Automático Clássico Resistente;R$ 60;8 OFF;R$ 55,77
+582;Maquina De Cortar Cabelo Wmark Ng 409 Lamina Vazada Com Capa;R$ 369;6 OFF;R$ 347,79
+583;Tupperware 5 Cx Mantimento Pb Açúcar Arroz Café Feijão E Sal;R$ 389;15 OFF;R$ 331,41
+584;Kit 10 Spot Led 3w Fênix Kian Quadrado Direcionável;R$ 124;18 OFF;R$ 101,17
+585;Fita Antiderrapante 20 Metros Preta Escadas Pisos Externo;R$ 78;8 OFF;R$ 71,85
+586;Vaso Planta Redondo Liso G. Moderno Polietileno Com Prato;R$ 212;10 OFF;R$ 190,80
+587;Kit Relógio Feminino Champion Ana Hickmann Rosé Prova D'água;R$ 309;38 OFF;R$ 189,90
+588;Chinelo Nuvem De Dedo Flip Flop Free;R$ 49;12 OFF;R$ 43,91
+589;Tênis Masculino Em Couro Stone Tune Up Cavalera ;R$ 208;25 OFF;R$ 156,74
+590;Panela De Pressão 4,5 Litros Asj Alumínio Polido ;R$ 73;9 OFF;R$ 66,90
+591;Livro Para Colorir 365 Desenhos Disney Pixar Infantil;R$ 15;21 OFF;R$ 12,60
+592;Etiquetas Transparentes Para Temperos - Vinil Impermeável ;R$ 22;9 OFF;R$ 20,83
+593;Tênis Casual Modare Ultraconforto Com Gel Tech;R$ 109;10 OFF;R$ 98,90
+594;Mesinha De Canto Lateral Decoração Sala Sofa Pé Palito Retro;R$ 75;14 OFF;R$ 65,27
+595;Sala De Jantar Madesa Evelin Mesa Tampo Vidro Com 4 Cadeiras;R$ 1.328;28 OFF;R$ 949,99
+596;Cozinha Completa Madesa Reims 260002 Armário E Balcão Branco;R$ 1.488;12 OFF;R$ 1.299
+597;Café Sol Starbucks Dark Roast Prem Soluble Cx 23g 10 Un;R$ 19;5 OFF;R$ 18,90
+598;Pistola Elétrica Para Pintura 400w Hvlp Pev400 Vonder;R$ 345;9 OFF;R$ 313,95
+599;Fio Cabo Elétrico Flexível 4mm X 100 Metros Colorido;R$ 196;12 OFF;R$ 173,31
+600;Ultra Led 12000 Lumêns  - H1 H3 H4 H7 H8 H11 H16 H27 Hb3 Hb4;R$ 131;10 OFF;R$ 118,67
+601;Faqueiro Avalon 30 Peças - Wolff;R$ 679;41 OFF;R$ 399,99
+602;Caneca Térmica Bebida Fria Por 12 Horas Cerveja Xship 709ml;R$ 105;6 OFF;R$ 98,19
+603;Faqueiro Berna 30 Peças - Wolff;R$ 539;25 OFF;R$ 399,99
+604;Kit 2 Refletor Led 200w Verde Prova Dagua Luminária Holofote;R$ 328;10 OFF;R$ 296,09
+605;Letra Luminária Led 3d Decorativa Festa - Escolha De De A-z;R$ 34;12 OFF;R$ 30,71
+606;Sapateira Porta Parede 28 Divisórias Extra Grande 14 Pares;R$ 78;6 OFF;R$ 74,25
+607;Armário Nicho Para Biblioteca Lavanderia Banheiro Cozinha;R$ 249;5 OFF;R$ 237,40
+608;Mangueira De Jardim Reforçada 30 Metros Que Não Dobra Promo;R$ 71;15 OFF;R$ 61,11
+609;Quadro Planner Agenda Semanal 30x40cm;R$ 27;10 OFF;R$ 24,30
+610;Capacho Long Amor Lar 30x70 Cm Ptbr Com;R$ 52;6 OFF;R$ 48,99
+611;Botina Segurança Marluvas Vellkron 50b26 Cb Vel Bp Ca 39.286;R$ 179;8 OFF;R$ 163,71
+612;Cozinha Infantil Com Fogão, Pia E Sai Água - 16 Acessórios;R$ 152;10 OFF;R$ 137,60
+613;Jogo De Toalhas Buddemeyer Clara Banho Branco 4 Peças;R$ 199;15 OFF;R$ 169,90
+614;Bermudas Masculinas Tectel Ajustavel Lisa Oferta Moda Verão ;R$ 64;12 OFF;R$ 57,19
+615;Perfume Ck One Calvin Klein 200ml -- 100% Original;R$ 318;15 OFF;R$ 270,33
+616;Kit 6 Cuecas Boxer Algodão Masculino Box Sem Costura Zorba;R$ 119;6 OFF;R$ 112,70
+617;Raquete De Tenis Wilson Pro Staff Rf 97l - 290 Gr V 13;R$ 1.598;11 OFF;R$ 1.423
+618;Punho De Partida Cb500 Universal Titan Fan 160 150 Xre Fazer;R$ 159;13 OFF;R$ 139,11
+619;Relógio Condor Masculino Dourado Co2115kuq/k4b + Brinde ;R$ 299;23 OFF;R$ 229,90
+620;Cardigan Feminino Adulto Plus Size Maelle;R$ 109;22 OFF;R$ 85,49
+621;Kit 10 Lâmpadas Led 9w Kian Bulbo E27 Smd Bivolt;R$ 108;18 OFF;R$ 88,21
+622;Lousa Planner Office7 20x26cm C/ Caneta;R$ 16;10 OFF;R$ 15,21
+623;Vestido Midi Em Crepe Com Estampa Xadrez Curve & Plus Size;R$ 179;15 OFF;R$ 152,90
+624;Kit Eletrificado Trilhos 1m + 4 Spots Led 7w Preto Quente;R$ 165;5 OFF;R$ 157,21
+625;Fraldas Pampers Confort Sec M 44 u;R$ 52;9 OFF;R$ 46,93
+626;Fita Isolante Imperial 3m 5metros X 18mm Preta;R$ 11;24 OFF;R$ 8,62
+627;Removedor Manchas Vidro Box Banheiro Limpa Transparex 385ml;R$ 39;14 OFF;R$ 34,39
+628;Mini Coelha Decorativa Funny Bunny 19 Cm - Home Style;R$ 29;70 OFF;R$ 8,99
+629;Frigideira Antiaderente Belíssima Com Tampa De Vidro 2 Peças;R$ 139;10 OFF;R$ 125,90
+630;Relógio Casio Masculino Digital W-218h-3avdf;R$ 219;27 OFF;R$ 159,90
+631;Protetor - Grade De Cama - Grade De Proteção - Bebê E Idosos;R$ 52;15 OFF;R$ 44,20
+632;Sapateira Pratica Zíper Quarto Pequena Organizador;R$ 78;14 OFF;R$ 67,93
+633;Gaveteiro Trama 3 Gavetas 57x41cm Tt Com;R$ 599;10 OFF;R$ 539,99
+634;Carregador Baterias 12v - Carro Moto - Com Flutuador !;R$ 147;15 OFF;R$ 124,95
+635;Aditivo Protetivo Para Radiador Luxcar 1litro Arrefecimento ;R$ 23;21 OFF;R$ 18,88
+636;Kit Com 10 Perfumes Lpz Parfum Original - Monte Seu Kit  ;R$ 123;15 OFF;R$ 105,11
+637;Fone Ouvido Academia Corrida Mp3 Radio Fm Cartão Sd Sem Fio;R$ 99;10 OFF;R$ 89,99
+638;Pote Quattro Stagioni 1,5 L Inou Com;R$ 79;30 OFF;R$ 55,99
+639;Bomba De Ar Elétrica Inflador Inflar Encher Colchão Western;R$ 74;8 OFF;R$ 68,16
+640;Desodorante Colônia Kaiak Masculino - 100ml Natura Full;R$ 78;15 OFF;R$ 67,06
+641;Kit Jogo De Soquetes 1/4 Profissional C/ Catraca Reversível;R$ 198;25 OFF;R$ 148
+642;Kit 4 Lâmpada Retrô Filamento Led St64 4w Bivolt Avant;R$ 68;20 OFF;R$ 54
+643;Carrinho De Praia Alumínio P/caixa Térmica Vira Mesinha Mor;R$ 279;10 OFF;R$ 251,90
+644;Meia Nike Everyday Cushioned (6 Pares);R$ 69;5 OFF;R$ 66,49
+645;Camisa Original Do Palmeiras Puma 2022 + Patch Libertadores;R$ 287;11 OFF;R$ 255,50
+646;50 Espelhos De Bolsa Personalizados Dia Das Mães;R$ 141;12 OFF;R$ 124,87
+647;Papel Toalha Interfolha Folha Simples Descartável Banheiro;R$ 18;14 OFF;R$ 16,25
+648;Linda Bolsa Feminina Promoção Preço Acessível;R$ 59;6 OFF;R$ 56,30
+649;Fio Cabo Flexível 2,5mm 100 Metros Sil Diversas Cores;R$ 223;12 OFF;R$ 197,03
+650;Grade Portão Proteção Pet 69 A 73,5 / 79 A 83,5 Cm Cachorro;R$ 77;10 OFF;R$ 70,11
+651;Trilho Eletrificado Branco 1 Metro Com 4 Spots Led 7w Quente;R$ 183;10 OFF;R$ 165,14
+652;Tapete 2,00x2,50 Geométricos Aveludados Sala/quart Promoção ;R$ 221;5 OFF;R$ 210,80
+653;Mesa Mesinha Infantil Decorada Com Estojo Com 1 Cadeira;R$ 139;10 OFF;R$ 125,91
+654;Kit 3 Mamadeira Clássica Anticólica 125/260/330ml Avent Azul;R$ 139;10 OFF;R$ 125,91
+655;Suporte Veicular Para Celular Garra Luxcar ;R$ 35;22 OFF;R$ 28
+656;Ducha Higiênica 3t Lorenzetti 220v 4300w;R$ 276;12 OFF;R$ 242,88
+657;Controle Longa Distância Taramps 300m Usb Connect Control;R$ 138;12 OFF;R$ 122,23
+658;Kit Barras De Led Tv Ph39n91 Ph39n91dsgw Ph39e31 4 Barras;R$ 138;10 OFF;R$ 125,01
+659;Lata Organizadora Dolar Cinza E Verde 16x8x24cm;R$ 49;40 OFF;R$ 29,99
+660;Suporte Lombar Alivio De Dor Coluna Alongamento Ortopédico;R$ 49;5 OFF;R$ 47,40
+661;Saco De Pancada Profissional (60x30) + Luva Bate Saco;R$ 99;13 OFF;R$ 86,99
+662;Toca Discos Raveo Sonetto Chrome Vitrola Gravação Usb Bluet ;R$ 529;10 OFF;R$ 476,55
+663;Mini Bicicleta Mini Bike Para Mãos E Pés Ginastica Idoso;R$ 270;13 OFF;R$ 234,90
+664;25placas Revestimento 3d Decora Parede Autocolante Adesivo;R$ 259;10 OFF;R$ 233,10
+665;Quadro Mulher Negra Maquiagem Dourado 40x60cm ;R$ 35;10 OFF;R$ 32,39
+666;Kit Motor Automatizador Ppa Portão Basculante 1/4 300kg 1,5m;R$ 527;9 OFF;R$ 479,59
+667;Luvas Para Academia Oxer Protetor Palmar - Adulto;R$ 14;13 OFF;R$ 13,04
+668;Kit Com 3 Cuecas Masculina Boxer Cós Estampado Básico D'uomo;R$ 69;31 OFF;R$ 48,20
+669;Porta Sabonete Líquido Marmo Round 125 Ml - Home Style;R$ 179;30 OFF;R$ 125,99
+670;Kit 4 Lâmpadas Led 6w Kian Bulbo E27 Smd Bivolt;R$ 34;14 OFF;R$ 29,67
+671;Esteira Ergométrica Profissional Inclina Wifi Massageador ;R$ 9.499;13 OFF;R$ 8.264
+672;Presente Rummo Liberdade Eudora;R$ 109;5 OFF;R$ 103,37
+673;Sandália Vizzano 6403.205 Amarração Salto ;R$ 129;12 OFF;R$ 114,31
+674;Jogo De Toalhas Buddemeyer Broderie Banho Rosa 2 Peças;R$ 165;15 OFF;R$ 139,90
+675;Mira Laser Cano Universal Acionador Remoto Caça Rifle Carabi;R$ 127;5 OFF;R$ 120,65
+676;Quadro Lousa Planner 40x60cm Emotions + Caneta + Ímã;R$ 49;10 OFF;R$ 44,99
+677;Faca De Pao Inox 8 Century Ix Com;R$ 179;22 OFF;R$ 139,99
+678;Painel 3d Auto Tijolo Espuma Branco Adesiva 70x76 - 10 Peças;R$ 229;11 OFF;R$ 203,81
+679;Kit 10 Lâmpadas Led 12w Kian Bulbo E27 Smd Bivolt;R$ 154;18 OFF;R$ 125,47
+680;Limpa Telas Notebook Celular Tv Tablet Luxcar 100ml;R$ 24;21 OFF;R$ 19,67
+681;Escrivaninha Madesa Alaska 3 Gavetas 1 Porta;R$ 539;27 OFF;R$ 389,99
+682;Lousa Planner Mês 20x26cm C/ Caneta;R$ 13;10 OFF;R$ 12,51
+683;3 Kit De Pesca Completo Barato Vara E Molinete Ht200 2 Rol;R$ 259;16 OFF;R$ 218,31
+684;Kit 2 Spot Led Quadrado 5w Bivolt Direcionável Branco Frio;R$ 29;17 OFF;R$ 24,74
+685;Jogo De Toalhas Buddemeyer Clara Banho Branco 4 Peças;R$ 199;15 OFF;R$ 169,90
+686;Drone Dji Mavic Mini 2 Fly More Combo + Nf;R$ 5.390;10 OFF;R$ 4.851
+687;Box O Melhor Das Irmãs Brontë Com 3 Livros, Bloco De Anotaçõ;R$ 69;40 OFF;R$ 41,94
+688;Refletor 100w Led Smd Prova Dágua Ip66 Holofote Branco Frio;R$ 66;12 OFF;R$ 58,95
+689;Micro Retífica Lixadeira 170w Com 40 Acessórios Titanium;R$ 126;9 OFF;R$ 114,66
+690;Kit 200 Lenço Lave Sem Medo Antimancha Roupas Coloridas;R$ 279;15 OFF;R$ 237,97
+691;Kit Para Banheiro Diamante 6 Peças Incolor;R$ 123;10 OFF;R$ 110,70
+692;Notebook Lenovo Ultrafino Ideapad 3 15.6 Ryzen 5 5500u 256gb;R$ 4.279;20 OFF;R$ 3.389
+693;Kit 200 Lenço Lave Sem Medo Antimancha Roupas Coloridas;R$ 279;15 OFF;R$ 237,97
+694;Kit Para Banheiro Diamante 6 Peças Incolor;R$ 123;10 OFF;R$ 110,70
+695;Notebook Lenovo Ultrafino Ideapad 3 15.6 Ryzen 5 5500u 256gb;R$ 4.279;20 OFF;R$ 3.389
+696;Kit Lâmina Shake Base Anel Vedação Liquidificadores Oster;R$ 84;5 OFF;R$ 79,90
+697;Kit 10 Spot Led 3w Fênix Kian Redonda Direcionável;R$ 124;19 OFF;R$ 100,15
+698;"Smart TV Samsung UN50AU8000GXZD LED 4K 50"" 100V/240V";R$ 4.099;21 OFF;R$ 3.199
+699;Kit 6 Lâmpadas Led 6w Kian Bulbo E27 Smd Bivolt;R$ 49;14 OFF;R$ 42,42
+700;Apple iPhone SE (2a geração) 128 GB - Branco;R$ 4.199;23 OFF;R$ 3.199
+701;Cabo Macho Guitarra Baixo Violão Etc P10 P/ P10 De 05 Metros;R$ 29;10 OFF;R$ 26,91
+702;Oculus Quest 2 128gb Vr Headset Original Lacrado Com Nf;R$ 3.199;14 OFF;R$ 2.751
+703;Martelete Makita HR2630JP azul com 830W de potência 220V;R$ 979;6 OFF;R$ 913,50
+704;Sandália Anabela Matelassê Modare ;R$ 119;42 OFF;R$ 69,26
+705;Controle Ps3 Sony ( Kit 2 Unidades + 1 Cabo Usb Lacrado);R$ 229;12 OFF;R$ 202,31
+706;Microsoft Xbox Series S 512gb Standard Cor Branco;R$ 2.889;18 OFF;R$ 2.349
+707;Secador de cabelo Mondial Ultra SC-15 preto e prata 110V/220V;R$ 66;10 OFF;R$ 60,21
+708;Freezer horizontal Consul CHA31EB branco 309L 220V ;R$ 3.171;32 OFF;R$ 2.129
+709;Reparador Instantâneo Enche E Veda Pneu Cheio Luxcar;R$ 64;14 OFF;R$ 55,81
+710;Óculos De Sol C-line Cngm04 Gb 58 Clássico;R$ 349;71 OFF;R$ 99
+711;Cola Branca 500g Polyfort Universal Pva Profissional;R$ 22;23 OFF;R$ 17,63
+712;Tênis Feminino Esportivo Racer Calce Fácil Kolosh;R$ 159;8 OFF;R$ 147,19
+713;Jogo Colcha Denim 3 Pecas King Ae Ntcs;R$ 681;11 OFF;R$ 599,99
+714;Espatula Perfurada Riga De Nylon Com Cabo De Madeira ;R$ 16;9 OFF;R$ 15
+715;Lousa Planner Mensal Rosa 20x26cm C/ Caneta;R$ 16;10 OFF;R$ 15,21
+716;Amaciante Downy Lírios do campo em galão 3 L;R$ 44;11 OFF;R$ 39,90
+717;Lixadeira De Parede Girafa Telescopia Mlp 750 Led Menegotti;R$ 898;16 OFF;R$ 748
+718;Tênis Slip On Feminino Dijean Confortável Casual Menina ;R$ 154;20 OFF;R$ 122,90
+719;Ar condicionado Philco Eco split inverter frio/quente 12000 BTU branco 220V PAC12000ITQFM9W|096652814;R$ 2.199;14 OFF;R$ 1.889
+720;Kit Limpa Grelhas Prime Grill 500ml Com Escova De Aço;R$ 51;14 OFF;R$ 44,63
+721;Aspirador De Pó Automotivo 12v Mini Com Cabo De 2,6m Luxcar;R$ 78;14 OFF;R$ 67,59
+722;Tipo Boneca Bebê Reborn 100% Silicone Bolsa + 28 Itens;R$ 229;10 OFF;R$ 206,10
+723;Glúten Trigo Vital Proteina Liga P/ Farinhas 2kg Com Laudo  ;R$ 65;14 OFF;R$ 56,75
+724;Vinho tinto meio seco Carménère Reservado Reservado 2019 adega Concha y Toro 750 ml;R$ 31;16 OFF;R$ 26,04
+725;Cortina Blackout Em Tecido 4,00 X 2,30 Alt Corta Luz;R$ 169;5 OFF;R$ 161,40
+726;Jogo De Tapetes Speed Universal 4 Peças Luxcar ;R$ 124;11 OFF;R$ 111,16
+727;"Monitor Acer V6 V206HQL Abi LCD 19.5 "" preto 100V/240V";R$ 999;19 OFF;R$ 809
+728;Seven Grill 1l Sevengel Desengordurante Top Potente Envio Já;R$ 32;14 OFF;R$ 28,37
+729;Triciclo Velotrol Infantil Bebe Motoca Festa Azul Magic Toys;R$ 215;10 OFF;R$ 194,39
+730;Protetor Solar Para Sol Laminado Dianteiro Painel Luxcar;R$ 32;21 OFF;R$ 25,72
+731;Smartphone Motorola Moto G22 Azul;R$ 1.799;5 OFF;R$ 1.699
+732;Calculadora De Mesa Escritório 12 Dígitos Visor Grande ;R$ 22;5 OFF;R$ 20,90
+733;Cobertor Manta Gigante Com Cabide Para Bebê Sweet Baby;R$ 119;10 OFF;R$ 107,10
+734;Lousa Planner Bolinhas Coloridas 20x26cm C/ Caneta;R$ 16;10 OFF;R$ 15,21
+735;Painel Redondo Para Decoração Em Tecido 3d 1,50m X 1,50m;R$ 65;12 OFF;R$ 57,20
+736;Cozinha Completa De Canto Madesa Reims 462001 Armário Balcão;R$ 3.308;17 OFF;R$ 2.729
+737;Fone De Ouvido Apple AirPods Pro Com Estojo De Recarga;R$ 1.699;10 OFF;R$ 1.529
+738;Lixadeira   orbital Mondial FLO-2  preta, vermelha e cinza 250W 220V;R$ 195;6 OFF;R$ 182
+739;Monitor Gamer LG 23,8 Full Hd 144hz 1ms Hdmi Dp Ips Hdr;R$ 1.649;10 OFF;R$ 1.468
+740;Ralador Zester Descomplica 37 Cm Ixam;R$ 89;22 OFF;R$ 69,99
+741;Kit 10 Spot Led 5w Fênix Kian Redonda Direcionável;R$ 132;18 OFF;R$ 107,65
+742;"Notebook Positivo BGH Motion Q464C gray 14.1"", Intel Atom Z8350  4GB de RAM 64GB SSD, Intel HD Graphics 1366x768px Windows 10 Home";R$ 1.961;21 OFF;R$ 1.549
+743;Melhor Desengordurante Profissional P/cozinha Industrial 5l;R$ 130;14 OFF;R$ 112,40
+744;Kit 10 Spot Led 5w Fênix Kian Redonda Direcionável;R$ 132;18 OFF;R$ 107,65
+745;"Notebook Positivo BGH Motion Q464C gray 14.1"", Intel Atom Z8350  4GB de RAM 64GB SSD, Intel HD Graphics 1366x768px Windows 10 Home";R$ 1.961;21 OFF;R$ 1.549
+746;Melhor Desengordurante Profissional P/cozinha Industrial 5l;R$ 130;14 OFF;R$ 112,40
+747;Balizador Spot Led Embutir Chao Piso Jardim 7w Prova D'água;R$ 64;7 OFF;R$ 60,44
+748;Tira Manchas Em Po Vantage Braqueador Poder O2 450g;R$ 29;18 OFF;R$ 23,90
+749;Bicicleta Ksw Xlt Aro 29 Freios A Disco Hidráulicos 24v;R$ 1.799;20 OFF;R$ 1.439
+750;Lâmpada Led Par 38 15w 127v E27 Branco Quente 3000k;R$ 44;10 OFF;R$ 39,91
+751;Saladeira Flower Branca 31cm - Haus Concept;R$ 179;22 OFF;R$ 139,99
+752;Rasteira Napa Floather Nature Tressel Modare;;;R$ 127,30
+753;Kit 10 Máscara Hospitalar N95 Pff2 9920h Respiratória;R$ 56;10 OFF;R$ 50,57
+754;Microsoft Xbox Series S 512GB Standard cor  branco;R$ 2.999;20 OFF;R$ 2.389
+755;Jg Porta Copos Geo 4 Pcs 10 Cm Br Com;R$ 99;30 OFF;R$ 69,99
+756;Guincho Talha Eletrico Prime Mgc Menegotti 500/1000kg 220v;R$ 1.489;9 OFF;R$ 1.355
+757;Cortador De Piso E Porcelanato Master 122 Pro Dresden;R$ 1.449;8 OFF;R$ 1.319
+758;Tênis Dijean Feminino Calce Fácil Conforto Menina;R$ 119;25 OFF;R$ 88,90
+759;Sacos Plásticos Capas Lavanderias - Terno Camisas 400 Unid;R$ 199;5 OFF;R$ 189,05
+760;Kit 3 Polo Pique Masculino Adulto Mr. Kitsch;R$ 169;33 OFF;R$ 112,99
+761;Fitas/tiras Reagentes G-tech Free 100 Unidades +100 Lancetas;R$ 114;15 OFF;R$ 97,14
+762;Lousa Planner Office3 20x26cm C/ Caneta;R$ 16;10 OFF;R$ 15,21
+763;Fonte Chaveada 24v 5a 120w Colmeia Bivolt Cftv Fita Led Som;R$ 62;10 OFF;R$ 55,89
+764;Smartphone Motorola Moto G20 64gb 4gb Ram - Grafite;R$ 1.294;8 OFF;R$ 1.183
+765;Zeus Extreme Pré Hormonal - 60 Comps - Kit 3 Caixas;R$ 389;47 OFF;R$ 203,60
+766;"Bicicleta  urbana GTSM1 Ride New TSI aro 29 17"" 21v freios de disco mecânico câmbios GTSM1 TSI cor preto/vermelho";R$ 1.249;5 OFF;R$ 1.187
+767;212 Vip Men Body Spray 250ml Masculino | Original + Amostra;R$ 229;29 OFF;R$ 160,80
+768;Bolsa Mochila Maternidade Impermeável Bebê Menino Menina;R$ 199;10 OFF;R$ 179,99
+769;Mural Planner Semanal Folhas 60x40cm;R$ 45;10 OFF;R$ 41,39
+770;Ralador De Queijo Manivela Cocinero Czbr;R$ 79;30 OFF;R$ 55,99
+771;Kit Conjunto Cadeiras + Mesa Alumínio Fibra Sintética Jardim;R$ 1.195;10 OFF;R$ 1.076
+772;Gift Cartão Psn Plus 12 Meses Brasil Brasileiro Playstation;R$ 204;15 OFF;R$ 174,16
+773;Mocassim Casual Masculino Infantil Menino Branco;R$ 34;6 OFF;R$ 32,80
+774;Calca Jeans Feminina Plus Size Cintura Alta Com Lycra Strech;R$ 77;8 OFF;R$ 71,75
+775;Tigela Roma Branca 13cm - Porto Brasil;R$ 29;33 OFF;R$ 19,99
+776;Age Inseticida Antigo Arraze Mais Potente 1l Dedetizador C/3;R$ 132;14 OFF;R$ 113,95
+777;Quadro Lousa Planner 40x60cm Abstrato + Caneta + Ímã;R$ 49;10 OFF;R$ 44,99
+778;Conjunto Moletom Masculino Estampado Blusa Calça Boné ;R$ 189;8 OFF;R$ 174,69
+779;Jogo De Soquete 57 Peças 1/4 Catraca Chave Allen Stels;R$ 188;10 OFF;R$ 168,30
+780;Frigideira Wok Marble 30cm Neoflam Vacom;R$ 399;25 OFF;R$ 299,99
+781;Velocímetro Para Bicicleta Sem Fio 16 Funções Ys708 Gtsm1;R$ 128;10 OFF;R$ 115,10
+782;Fita Isolante Imperial 3m 20metros X 18mm Preta;R$ 15;10 OFF;R$ 14,39
+783;Painel Retangular Tecido Sublimado Festa 1,50 X 2,20;R$ 78;10 OFF;R$ 71,01
+784;Lápis Olhos Marronlito 1,2g;;;R$ 32,40
+785;Fita Antiderrapante 5 Metros Preta Escadas Pisos Poliéster;R$ 32;5 OFF;R$ 30,93
+786;Tela Display Touch Para Moto G7 G7 Plus Xt1962-4 Xt1965-2 ;R$ 204;12 OFF;R$ 179,99
+787;Lâmpada Filamento De Carbono G80 40w Vintage Retro 110v E27;R$ 27;10 OFF;R$ 25,10
+788;Massageador Elétrico Orbital 2600 Rotações - Relaxmedic;R$ 189;10 OFF;R$ 169,90
+789;Escova Secadora Rotativa Ceramica Oleo Argan 1000w Mondial;R$ 219;22 OFF;R$ 169,90
+790;Amaciante Comfort Intense Puro cuidado em frasco 1 L;R$ 16;41 OFF;R$ 9,90
+791;Açucareiro Com Dosador 240ml - Pasabahce;R$ 29;31 OFF;R$ 19,90
+792;Lousa Planner Office5 20x26cm C/ Caneta;R$ 16;10 OFF;R$ 15,21
+793;Aparelho De Jantar Oxford Cerâmica 30 Peças Floreal Hana;R$ 367;10 OFF;R$ 329,90
+794;Quadro Lousa Planner 40x60cm Office5 + Caneta + Ímã;R$ 49;10 OFF;R$ 44,99
+795;Camera Ip Segurança Lampada Yoosee Panoramica Wifi1080 Espia;R$ 189;8 OFF;R$ 172,81
+796;Quadro Mulher Negra Maquiagem Dourado 40x60cm ;R$ 35;10 OFF;R$ 32,39
+797;Bola De Futsal F5 Brasil Oficial Sub 11 Kagiva ;R$ 119;30 OFF;R$ 83,71
+798;Escorredor De Louça Bambu 43 Cm X 33 Cm - Home Style;R$ 139;50 OFF;R$ 69,99
+799;Prato Sobremesa Roma 20,5cm Br Ntcs;R$ 29;33 OFF;R$ 19,99
+800;Varal De Parede Retrátil Para Apartamento - 80 Cm - Branco;R$ 57;10 OFF;R$ 52,10
+801;Caixa De Som Monitor Referência Ativo Tomate Mst 2026bt 100w;R$ 979;14 OFF;R$ 842,77
+802;Limpa Ar Condicionado Lavanda Luxcar 300ml;R$ 38;22 OFF;R$ 30,34
+803;Limpador Geral Inox Brilho Spray Domline Pronta Entrega 3un;R$ 56;14 OFF;R$ 48,41
+804;Capa Protetora Cão Gato Petcar Banco Traseiro  Impermeável;R$ 114;13 OFF;R$ 99,96
+805;Lixa Dágua Com 50 Unidades P80 P100 P120 P150;R$ 74;11 OFF;R$ 66,74
+806;Kit Halteres 6 Em 1 Peso Musculação Até 40kg Ajustável Preto;R$ 999;13 OFF;R$ 869,91
+807;Massa De Polir Automotiva N2 Vintex Vonixx 1,8kg;R$ 52;5 OFF;R$ 49,57
+808;Caixa Caixinha De Som Bluetooth Potente D-p 14 Fm Usb Mp3 ;;;R$ 66,75
+809;Protetor solar Nivea Sun Protect & Hidrata  FPS50 125 ml;R$ 45;23 OFF;R$ 34,90
+810;Kit 3 Panos Limpa Chão Porcelanato Enxuga Louças Ecologico;R$ 98;14 OFF;R$ 85,05
+811;Branqueato 1kg Tio Bonato Dr Bactéria Original Alvejante;R$ 29;14 OFF;R$ 25,77
+812;Quadro Lousa Planner 40x60cm Office6 + Caneta + Ímã;R$ 39;10 OFF;R$ 35,99
+813;Fone De Ouvido Lightning Lacrado - iPhone 11 12 Pro C/ Nota;R$ 186;10 OFF;R$ 167,84
+814;Geléia St. Dalfour amora, morango, framboesa e cereja em vidro sem glúten 284 g;R$ 41;29 OFF;R$ 29,69
+815;Porta Sachê Chá Com Tampa Preto - Martiplast;R$ 52;23 OFF;R$ 39,90
+816;Purificador Gelada Pury Leaf - Filtra - Purifica - Alto Flux;R$ 919;10 OFF;R$ 827,10
+817;Sandália Preto Moleca ;;;R$ 68,50
+818;Short Jeans Plus Size Preto Liso Hot Pants Barra Desfiada;R$ 74;11 OFF;R$ 66,66
+819;Strap Fita Com Munhequeira Lifiting Strap Exercicios Puxada;R$ 44;13 OFF;R$ 39,06
+820;Kit 3 Pares Tênis Olimp´s Masculino Caminhada Academia Macio;R$ 179;10 OFF;R$ 161,90
+821;Kit Marcador Quadro Branco Canetão 4 Cores + Apagador Grátis;R$ 36;5 OFF;R$ 35,12
+822;Mangueira Flexível Estica Retrátil Anti Torção Mágica 15m;R$ 72;10 OFF;R$ 65,60
+823;Tênis Feminino Slip On Mule Calce Fácil Kolosh;R$ 149;8 OFF;R$ 137,99
+824;Tênis Infantil Feminino Ortopé Casual Sport Harry Potter;R$ 199;10 OFF;R$ 179,91
+825;Fone de ouvido over-ear sem fio Philips 4000 Series TASH402 azul;R$ 319;47 OFF;R$ 169
+826;Lousa Planner Meu Planner 20x26cm C/ Caneta;R$ 16;10 OFF;R$ 15,21
+827;Jogo De Cama Casal Queen 3 Peças Lençol Elástico + Fronhas;R$ 35;10 OFF;R$ 32,30
+828;Amaciante Comfort Intense Cuidado essencial em frasco 1 L;R$ 20;26 OFF;R$ 14,71
+829;Porta Frios Empilhável Com Pinça 3 Peças Lyon Brinox;R$ 52;10 OFF;R$ 47,50
+830;Pano De Limpeza Perfex Multiuso Bobina Descartável Rolo 25un;R$ 19;13 OFF;R$ 17,16
+831;Lousa Planner Office6 20x26cm C/ Caneta;R$ 16;10 OFF;R$ 15,21
+832;Kit 5 Máscaras Kn95 Proteção 5 Camada Respiratória Pff2 N95;R$ 39;15 OFF;R$ 33,57
+833;Promoção Escada Domestica 5 Degraus Aluminio Agata;R$ 179;12 OFF;R$ 158,08
+834;Motor Partida Gol Saveiro Fox G5 G6  11 Dentes Tsc10r7 D7es6;R$ 899;12 OFF;R$ 791,89
+835;Carretilha Pesca Direita 8.1:1 Lizard Audi 18 Rolamentos;R$ 189;16 OFF;R$ 159,59
+836;Shorts Doll Com Cropped Super Confortavel ;R$ 27;5 OFF;R$ 25,65
+837;Cápsula De Café Gourmet Biodegradável Máquinas Nespresso*;R$ 19;29 OFF;R$ 13,69
+838;Cortina Sala E Quarto 4,00m X 2,70m;R$ 169;10 OFF;R$ 152,10
+839;Quadro Lousa Planner 40x60cm Planner Semanal3 + Caneta + Ímã;R$ 49;10 OFF;R$ 44,99
+840;Oráculo Desperte Sua Luz;R$ 172;9 OFF;R$ 155,24
+841;Máquina De Fazer Café Coado Com 2 Xícaras De 250ml;R$ 154;16 OFF;R$ 128,95
+842;Colcha Bouti King Cobre Leito Dupla Face Tecido Liso 03 Peçs;R$ 169;5 OFF;R$ 161,49
+843;Refletor Led 300w Smd Prova D´água Mini Holofote Bf 6500k;R$ 199;14 OFF;R$ 171
+844;Caneca Flork Florkofcows Meme Frase Engraçada Porcelana;R$ 29;8 OFF;R$ 27,59
+845;Kit 3 Calça Jeans Jogger Masculina Infantil;R$ 169;8 OFF;R$ 156,30
+846;Piscina Inflável redonda Mor 001784 de 1.52m x 30cm 450L azul;R$ 119;24 OFF;R$ 89,90
+847;Carabina De Pressão Cbc Ag11 5.5mm + Luneta 4x20 + Capa ;R$ 819;17 OFF;R$ 676,01
+848;Quadro Lousa Planner 40x60cm + Caneta + Ímã;R$ 49;10 OFF;R$ 44,99
+849;Perfume Masculino Malbec Bleu 100ml O Boticário;R$ 178;15 OFF;R$ 151,55
+850;Cama Juvenil/solteiro Safira Mdf Branco Premium Multimóveis;R$ 359;24 OFF;R$ 273,52
+851;Quadro Lousa Planner 40x60cm Minha Sem Color + Caneta + Ímã;R$ 49;10 OFF;R$ 44,99
+852;Microfone Sem Fio Duplo Uhf Display Digital 30 Canais Udx 02;R$ 728;10 OFF;R$ 655,88
+853;Quadro Mulher Negra Maquiagem Dourado 40x60cm ;R$ 35;10 OFF;R$ 32,39
+854;Mesa Pequena Dobrável Camping Alumínio 60x45cm Vira Maleta;R$ 168;10 OFF;R$ 151,20
+855;Trena Métrica Starrett 5 Metros;R$ 36;10 OFF;R$ 33,29
+856;Berloque/separador Cravejados Em Prata Comp. Pandora Vivara;R$ 62;5 OFF;R$ 59,75
+857;Cílios Nagaraku Y Mix - Volume Brasileiro - Original;R$ 66;15 OFF;R$ 56,10
+858;Panela Smart Plus New 18 Cm Pt Com;R$ 119;25 OFF;R$ 89,99
+859;Gin Theros Dry 1 L;R$ 44;33 OFF;R$ 29,90
+860;Lousa Planner Abstrato 20x26cm C/ Caneta;R$ 16;10 OFF;R$ 15,21
+861;Depilador Elétrico Philips Series 8000/5acessórios-bre712/00;;;R$ 959
+862;Kit 04 Lixeiras Para Coleta Seletiva 60 Litros Com Suporte;R$ 699;14 OFF;R$ 601,97
+863;"Notebook Positivo BGH Master N40I cinza-oscura 14"", Intel Celeron N3010  4GB de RAM 32GB SSD, Intel HD Graphics 400 1366x768px Windows 10 Pro";R$ 1.743;7 OFF;R$ 1.621
+864;Jogo De Panelas Casambiente  Magenta E Rosa 5 Peças Vien;R$ 629;10 OFF;R$ 566,99
+865;"Notebook Positivo BGH Master N40I cinza-oscura 14"", Intel Celeron N3010  4GB de RAM 32GB SSD, Intel HD Graphics 400 1366x768px Windows 10 Pro";R$ 1.743;7 OFF;R$ 1.621
+866;Fonte De Energia Estabilizada 3a 12v Bivolt Cftv Fita Led;R$ 18;10 OFF;R$ 16,99
+867;Kit Shampoo + Condicionador 1l Belapro Extrato De Macadâmia;R$ 69;14 OFF;R$ 60,19
+868;Bico Bomba Combustível Fazer250 Lander Tenere 2005 A 2018;R$ 59;10 OFF;R$ 53,91
+869;Almofada Nasa Travesseiro Pescoço Viagem Com Botão Nap Std;R$ 54;12 OFF;R$ 48
+870;Jogo De Toalhas Buddemeyer Doris Banho Azul 5 Peças;R$ 179;19 OFF;R$ 144,90
+871;Corda De Pular Aço Crossfit Mma Speed Rope Duplo Rolamento ;R$ 62;13 OFF;R$ 53,94
+872;Moletom Unissex Casaco Blusão Tradicional Liso Blusa De Frio;R$ 69;5 OFF;R$ 66,40
+873;Console Lelong LE-709 de mistura 110V/220V;R$ 595;10 OFF;R$ 535,50
+874;Quadro Lousa Planner 40x60cm Meu Planner + Caneta + Ímã;R$ 39;10 OFF;R$ 35,99
+875;Blocos de montar  Brincar & aprender 1000 piezas  em  saco;R$ 158;8 OFF;R$ 145,80
+876;Secador De Cabelos110v Profissional Envio Imediato 1900w;R$ 158;9 OFF;R$ 144,58
+877;Tênis Masculino Mancini Com Cano Médio Preto Ollie;R$ 109;42 OFF;R$ 62,99
+878;Sensor Nível Combustível Gol G3 G4 G5 G6 G7 1.4/1.6 Original;R$ 94;10 OFF;R$ 84,96
+879;Roupa Infantil Menino Ensaio Fotográfico Mesaniversario;R$ 54;6 OFF;R$ 51,60
+880;Refletor Led 400w Smd Prova D´água Holofote Bf 6500k;R$ 229;16 OFF;R$ 193
+881;Bicicleta Gts Aro 29 F. Hidráulico - 24v | New Exp 2.0;R$ 1.899;11 OFF;R$ 1.686
+882;Lixadeira Roto Orbital 5 Pol Gex 125 Ae Profissional Bosch;R$ 577;12 OFF;R$ 507,76
+883;Sapatênis Masculino Cano Baixo Branco Polo Wear;R$ 129;36 OFF;R$ 82,90
+884;Esteira De Massagem 10 Motores E Aquecimento Massage Mat;R$ 579;13 OFF;R$ 499,90
+885;Cobre Leito Colcha Ternura Algodão 200 Fios Solteiro;R$ 75;6 OFF;R$ 70,63
+886;Queijeira Vision 13cm Ixin Neu;R$ 79;25 OFF;R$ 59,99
+887;Bolsa Feminina Lateral E Transversal Regulável Selten;R$ 99;12 OFF;R$ 87,99
+888;Quadro Planner Minha Semana 30x40cm;R$ 27;10 OFF;R$ 24,30
+889;Som automotivo Tiger Auto TG-4.3.006 com USB, bluetooth e leitor de cartão SD;R$ 163;16 OFF;R$ 137
+890;Paco Rabanne Invictus 200ml | Original + Amostra De Brinde;R$ 749;39 OFF;R$ 452,58
+891;Lixa De Ferro / Aço Com 25 Unidades P100 P120 P150;R$ 69;12 OFF;R$ 61,51
+892;"Tablet  Positivo Twist Tab Kids T770K 7"" 32GB preto e 1GB de memória RAM";R$ 499;22 OFF;R$ 389
+893;Sandalia  Bebê Menino Franciscana  05006 Direto Da Fabrica;R$ 24;10 OFF;R$ 22,41
+894;Cafeteira Italiana De Inox Vênus 4 Xícaras Bialetti Cobre;R$ 399;6 OFF;R$ 374,99
+895;Quadro Lousa Planner 40x60cm Planej. Cat + Caneta + Ímã;R$ 39;10 OFF;R$ 35,99
+896;Jogo De Copos Baixo Spire 6 Peças - Home Style;R$ 32;7 OFF;R$ 29,99
+897;Kit 4 Lâmpadas Led 12w Kian Bulbo E27 Smd Bivolt;R$ 54;14 OFF;R$ 46,67
+898;Limpador Perfumado Limpol Delicadeza Das Pétalas 1l;R$ 6;16 OFF;R$ 5,84
+899;Conjunto Sala De Jantar Lexy Madesa Mesa Com 4 Cadeiras;R$ 759;35 OFF;R$ 489,99
+900;Quadro Lousa Planner 40x60cm Planej. Dog + Caneta + Ímã;R$ 39;10 OFF;R$ 35,99
+901;3x Câmera Segurança Ip Bd-dp604 Externa Wifi 2 Antenas Hd ;R$ 539;9 OFF;R$ 490,49
+902;Saco Presente Metalizado 30x45 C/150 Un + Laços 18x39 300 Un;R$ 127;12 OFF;R$ 111,76
+903;Amaciante Concentrado Comfort Intense Cuidado Essencial 1.5l;R$ 22;14 OFF;R$ 19,77
+904;50 Máscara Tripla Descartável C/ Elástico Anvisa Clip Nasal;R$ 39;15 OFF;R$ 33,91
+905;Lousa Planner Office 20x26cm C/ Caneta;R$ 13;10 OFF;R$ 12,51
+906;Varal De Luz Cordão Iluminação Gambiarra 10m Com Lâmpadas;R$ 124;10 OFF;R$ 112
+907;Capa Para Cobrir Carro Evidence Luxcar;R$ 299;5 OFF;R$ 281,91
+908;Par Pneu 29 Pirelli Scorpion 29 Mb2 29 X 2.0 Mtb - Promoção;R$ 169;20 OFF;R$ 135,99
+909;Fita Isolante Imperial 3m 10metros X 18mm Preta;R$ 12;20 OFF;R$ 10,39
+910;Xícara De Café Casablanca 260ml - Pasabahce;R$ 25;42 OFF;R$ 14,90
+911;15 Placas Revestimento Parede Alto Relevo Painel 3d Decora;R$ 149;10 OFF;R$ 134,99
+912;Porta Sacolas 3 Medidas, Supermercados, Lojas Entre Outros;R$ 47;6 OFF;R$ 45,02
+913;Smartwatch Amazfit Basic Bip U Pro 1.43   A2008;R$ 569;20 OFF;R$ 455
+914;Macaco Hidráulico Garrafa 10 Toneladas Com Nf;R$ 154;15 OFF;R$ 131,74
+915;Sabão Líquido Ariel Cores Radiantes Toque Downy 1,8l Oferta!;R$ 44;14 OFF;R$ 38,67
+916;Caixinha De Som Bluetooth Mini Soundbar Recarregável Potente;R$ 149;10 OFF;R$ 134,91
+917;Capa Capinha Gocase P/ Todos iPhone - Flamengo Urubu;R$ 74;21 OFF;R$ 58,90
+918;Kit Banho Bebê Banheira Saboneteira Lixeira 7,5l E Cesto;R$ 148;10 OFF;R$ 134,01
+919;Bone Crusher 300g (60 Doses) - Black Skull (pré-treino);R$ 78;10 OFF;R$ 71,08
+920;Luminária Painel Plafon Led 12w Kian Quadrado Sobrepor;R$ 38;18 OFF;R$ 31,51
+921;Cola De Parachoque Vedachoque Maxirubber 150gr;R$ 66;11 OFF;R$ 59,54
+922;Cola Branca 500g Cascola Cascorez Extra Adesivo Pva - Slime;R$ 24;22 OFF;R$ 19,10
+923;Plafon Sobrepor Gemini Acrílico Cristal Espelhado 40x40 24w;R$ 467;10 OFF;R$ 421,11
+924;Kit Banho Bebê Banheira Saboneteira Lixeira 7,5l E Cesto;R$ 147;10 OFF;R$ 133,11
+925;Kit 4 Lâmpadas Led 9w Kian Bulbo E27 Smd Bivolt;R$ 38;14 OFF;R$ 33,07
+926;Lousa Planner Minha Semana Color 20x26cm C/ Caneta;R$ 13;10 OFF;R$ 12,51
+927;Kit 30 Fonte Sagemcom 12v 2a Para Cftv Ou Receptor De Tv;R$ 489;12 OFF;R$ 431,11
+928;Camisa Masculina Denim Jeans Escuro Polo Wear;R$ 139;10 OFF;R$ 125,99
+929;Kit 5 Broca Lixa Unha Profissional Gel Fibra Manicure;R$ 67;15 OFF;R$ 57,79
+930;Lousa Planner Planejamento Color 20x26cm C/ Caneta;R$ 16;10 OFF;R$ 15,21
+931;Manta Para Sofá Gigante Cama Coberta Viena 170x140;R$ 69;42 OFF;R$ 40
+932;Lousa Planner Planejar 20x26cm C/ Caneta;R$ 16;10 OFF;R$ 15,21
+933;2 Halteres 40cm+24kg Anilha Emborrachada Musculação;R$ 475;12 OFF;R$ 414,08
+934;Carregador Veicular + Cabo Dados Luxcar Android Micro B 12v;R$ 51;16 OFF;R$ 43,15
+935;Cabo Riser Pcie 16x Mineração Ver 009s;R$ 84;6 OFF;R$ 79,80
+936;Quadro Lousa Planner 40x60cm Bolinhas Color + Caneta + Ímã;R$ 49;10 OFF;R$ 44,99
+937;"Amazon Echo Show 5 2nd Gen com assistente virtual Alexa, display integrado de 5.5"" glacier white 110V/240V";R$ 458;7 OFF;R$ 425
+938;Blow Gummies Crescimento Capilar 60 Dias Tratamento Morango;R$ 125;15 OFF;R$ 106,76
+939;Grill Desincrustante Alcalino Sevengel 1 Litro Limpa Chapa;R$ 31;14 OFF;R$ 26,66
+940;Cadeirinha De Bebê Vibratória E Musical De Descanso Protek;R$ 189;10 OFF;R$ 170,91
+941;Mini Máquina Branca Do Som Do Ruído Sono Calmante 9 Opções;R$ 149;10 OFF;R$ 134,90
+942;Rolo Para Treino Bicicleta Fixo Magnético Bike Mtb Speed;R$ 499;20 OFF;R$ 399,92
+943;Mini Micro Câmera Monitoramento Espia Segurança Hd Wireless;R$ 115;30 OFF;R$ 80,61
+944;Tapete Pelo Alto 2,00x1,50 Super Macio;R$ 139;10 OFF;R$ 125,90
+945;Tapete Dallas 1,35 X 2,00 M Antiderrapante Barato Decorativo;R$ 140;10 OFF;R$ 126,89
+946;Suporte Para Celular Veicular Gravitacional Luxcar;R$ 54;15 OFF;R$ 46,12
+947;Mantegueira Bolinha In Tro;R$ 59;40 OFF;R$ 35,99
+948;Kit 5 Mini Lysoform 55ml / 40g -de Bolsa/ Viagem Compre!;R$ 89;14 OFF;R$ 77,31
+949;Kit 10 Conjuntos Lingeries Sexys Calcinhas E Sutiã Atacado !;R$ 139;10 OFF;R$ 125,10
+950;Ferramentas De Sincronismo Fiat Toro E Jeep Renegade Diesel;R$ 139;10 OFF;R$ 125,99
+951;Jogo De Xícara De Café Expresso Napoli 4 Peças Caramelo - Ma;R$ 73;18 OFF;R$ 59,90
+952;Kit Bicafé 60 Cápsulas De Café Red Para Máquinas Nespresso*;R$ 78;19 OFF;R$ 63,35
+953;Fogão cooktop gás Tedge TD164075 vermelho 110V/220V;R$ 699;42 OFF;R$ 399
+954;Kit Com 2 Bermudas Masculinas Regular Jeans Basic Local;R$ 189;40 OFF;R$ 113,91
+955;Fogão cooktop gás Tedge TD164075 branco 110V/220V;R$ 699;42 OFF;R$ 399
+956;Jogo De Xícara De Café Expresso Napoli 4 Peças Caramelo - Ma;R$ 73;18 OFF;R$ 59,90
+957;Kit Bicafé 60 Cápsulas De Café Red Para Máquinas Nespresso*;R$ 78;19 OFF;R$ 63,35
+958;Fogão cooktop gás Tedge TD164075 vermelho 110V/220V;R$ 699;42 OFF;R$ 399
+959;Luva Academia Feminina E Masculina Grip Hook Treino Cross   ;R$ 44;13 OFF;R$ 38,88
+960;Kit 4 Raquetes De Beach Tennis Sulina + 6 Bolas;R$ 579;10 OFF;R$ 521,91
+961;Kit Cilindro Pistão Anéis Para Motosserra Kawashima Kws5218;R$ 139;9 OFF;R$ 126,49
+962;Cadeira Vime Fibra Junco Ratan Varanda Piscina Externa 4 Pçs;R$ 854;8 OFF;R$ 786,59
+963;Kit 2 Amaciante Comfort Puro Cuidado Em Galão 3 Litros;R$ 47;14 OFF;R$ 40,85
+964;Rack De Rede Parede 8u X 470mm Desmontável Com Fundo;R$ 419;9 OFF;R$ 381,29
+965;Jogo Panelas 14 Pc Teflon Antiaderente Brinde Panela Pressão;R$ 436;5 OFF;R$ 414,20
+966;Conversor Para Tv Digital + Antena Digital Interna;R$ 139;10 OFF;R$ 125,91
+967;Tira Silicone Vidro Gel Remoção De Pu Não Tóxico Bisnaga 45g;R$ 30;14 OFF;R$ 26,55
+968;Carrinho Controle Remoto Transformers Changebot - Polibrinq;R$ 139;10 OFF;R$ 125,91
+969;Cortina Gaze De Linho E Forro Sala/quarto Glm 3.0 M X 2.6 M;;;R$ 275,41
+970;Kit Quadros Decorativos Sala Quarto Orquidea Branca Amarela;R$ 59;10 OFF;R$ 53,54
+971;Câmera de segurança Luatek LKW-4020 com resolução de 2MP visão nocturna incluída branca;R$ 240;9 OFF;R$ 218,89
